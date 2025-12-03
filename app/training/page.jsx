@@ -1,9 +1,9 @@
 import {
-  FaCode, // General code/Python/Java
-  FaShieldAlt, // Cyber Security
-  FaCogs, // DevOps
-  FaRobot, // AI & ML
-  FaLaptopCode, // Placeholder for another specific topic
+  FaCode, 
+  FaShieldAlt, 
+  FaCogs, 
+  FaRobot, 
+  FaLaptopCode,
 } from "react-icons/fa";
 import ContactFooter from "/app/ui/contactpg";
 
@@ -86,7 +86,6 @@ export default function TrainingProgramsPage() {
         bgSrc="/products/products.jpg"
         pageLinkText="Training"
       />
-      {/* Start Training Programs Section */}
 
       <Div id="training-programs">
         <Div className="container">
@@ -99,7 +98,6 @@ export default function TrainingProgramsPage() {
                   <div className="text-center">
                     {service.icon}
                     <h3 className="text-xl font-bold mt-4">{service.title}</h3>
-                    {/* Added subtitle for better visual appeal on the main page */}
                     <p className="mt-2">{service.subtitle}</p> 
                   </div>
                 </Link>
@@ -110,7 +108,6 @@ export default function TrainingProgramsPage() {
         </Div>
       </Div>
       <ContactFooter />
-      {/* End Training Programs Section */}
     </>
   );
 }
