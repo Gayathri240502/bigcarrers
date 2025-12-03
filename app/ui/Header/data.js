@@ -1,3 +1,5 @@
+import { Children } from "react";
+
 export const navLinks = [
   { href: "/", label: "Home" },
   {
@@ -162,26 +164,51 @@ export const navLinks = [
       },
     ],
   },
-  // {
-  //   href: "/products",
-  //   label: "Products",
-  //   children: [
-  //     {
-  //       href: "/products/hims",
-  //       label: "Hospital Information Management System (HIMS)",
-  //     },
-  //     {
-  //       href: "/products/crm",
-  //       label: "Customer Relationship Management (CRM)",
-  //     },
-  //     { href: "/products/erp", label: "Enterprise Resource planning (ERP)" },
-  //     { href: "/products/lms", label: "Learning Management System (LMS)" },
-  //     {
-  //       href: "/products/hrms",
-  //       label: "Human Resource Management System (HRMS)",
-  //     },
-  //   ],
-  // },
+  {
+    href: "/products",
+    label: "Products",
+    children: [
+      {
+        href: "/products/hims",
+        label: "Hospital Information Management System (HIMS)",
+      },
+      {
+        href: "/products/crm",
+        label: "Customer Relationship Management (CRM)",
+      },
+      { href: "/products/erp", label: "Enterprise Resource planning (ERP)" },
+      { href: "/products/lms", label: "Learning Management System (LMS)" },
+      {
+        href: "/products/hrms",
+        label: "Human Resource Management System (HRMS)",
+      },
+    ],
+  },
+  {    href: "/training",
+    label: "Training",
+    children: [
+      {
+        href: "/training/ai-ml",
+        label: "AI&ML",
+      },
+      {
+        href: "/training/cyber-security",
+        label: "Cyber Security",
+      },
+      {
+        href: "/training/devops",
+        label: "DevOps",
+      },
+      {
+        href: "/training/java",
+        label: "Java",
+      },
+      {
+        href: "/training/python",
+        label: "Python",
+      },
+    ],
+  },
   {
     href: "/industries",
     label: "Industries",
