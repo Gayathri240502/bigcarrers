@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://bigcareers.solutions
+
+# Sitemaps
+Sitemap: https://bigcareers.solutions/sitemap.xml

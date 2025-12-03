@@ -1,0 +1,132 @@
+.cs-card.cs-style1 {
+  position: relative;
+  border-radius: 15px;
+  display: block;
+  margin: 5px;
+  margin-bottom: 10px;
+
+  &:hover {
+    filter: drop-shadow(0px 0px 30px rgba(255, 74, 23, 0.5));
+  }
+  img {
+    width: 100%;
+    border-radius: inherit;
+  }
+  .cs-card_overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: inherit;
+    background: #000000;
+    opacity: 0.5;
+  }
+  .cs-card_info {
+    position: absolute;
+    padding: 45px 25px 0;
+    top: 0;
+    left: 0;
+    span {
+      display: block;
+      height: 12px;
+      width: 12px;
+      border-radius: 50%;
+      margin-bottom: 10px;
+    }
+  }
+  .cs-card_title {
+    font-size: 22px;
+    margin: 0;
+    line-height: 1.5em;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  .cs-card.cs-style1 .cs-card_title {
+    font-size: 20px;
+  }
+  .cs-card.cs-style1 .cs-card_info {
+    padding: 40px 18px 0;
+  }
+}
+
+@media screen and (max-width: 1199px) {
+  .cs-card.cs-style1 .cs-card_title {
+    font-size: 24px;
+  }
+  .cs-card.cs-style1 .cs-card_info {
+    padding: 40px 30px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+  }
+}
+
+.card-image-wrapper {
+  padding: 16px; /* Adjust padding as needed */
+  background: #f9f9f9; /* Optional for a visual background */
+  border-radius: 8px; /* Optional for rounded corners */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-image {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain; /* Ensures the image scales well */
+}
+.service-card {
+  transition: all 0.3s ease-in-out;
+  border-radius: 10px;
+}
+
+.service-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.service-card .card-body {
+  padding: 25px;
+}
+
+.card-text {
+  font-size: 1.1rem;
+  color: #ddd;
+}
+
+/* Ensure text color is inherited properly */
+.cs-card h4,
+.cs-card p {
+  transition: color 0.3s ease; /* Smooth transition for text color */
+}
+
+.cs-card:hover h4,
+.cs-card:hover p {
+  color: #000000;
+}
+
+
+/* Apply uniform size to all service cards */
+.cs-card.cs-style1 {
+  width: 100%;          /* grid handles width */
+  max-width: 250px;     /* optional: same width */
+  height: 200px;        /* fixed height */
+  overflow: hidden;     /* hide overflow */
+  border-radius: 15px;
+  margin: 0 auto;       /* center in column */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.cs-card.cs-style1 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;    /* crops image cleanly */
+  border-radius: inherit;
+}

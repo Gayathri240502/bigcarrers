@@ -1,0 +1,46 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "noEmit": true,
+    "incremental": true,
+    "module": "esnext",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ]
+  },
+  "include": [
+    "next-env.d.ts",
+    ".next/types/**/*.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "app/service/digital-marketing/affiliate-marketing/page.tsx",
+    "app/service/digital-marketing/page.jsx",
+    "app/service/digital-marketing/video-marketing/page.jsx",
+    "app/service/digital-marketing/social-media-marketing/page.jsx",
+    "app/service/digital-marketing/search-engine-optimization/page.jsx",
+    "app/service/digital-marketing/search-engine-marketing/page.jsx",
+    "app/service/digital-marketing/influencer-marketing/page.jsx",
+    "app/service/digital-marketing/email-marketing/page.jsx",
+    "app/service/digital-marketing/display-advertising/page.jsx",
+    "app/service/digital-marketing/content-marketing/page.jsx",
+    "app/service/custom-embedded-solutions/page.jsx",
+    "app/(industries)/media-and-technology/page.jsx",
+    "app/products/page.jsx",
+    "app/(others)/support/page.jsx",
+    "app/service/technology/snowflake/page.jsx",
+    "app/service/it-infrastructure-and-networking/page.jsx",
+    "app/service/technology/ai-&-ml/rpa/page.jsx"
+  ],
+  "exclude": ["node_modules"]
+}

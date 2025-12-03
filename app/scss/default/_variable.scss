@@ -1,0 +1,16 @@
+/*--------------------------------------------------------------
+## Basic Color
+----------------------------------------------------------------*/
+:root {
+  --accent:  #2563EB;
+  --primary-font: 'Teko', sans-serif;
+  --secondary-font: 'Open Sans';
+}
+$white: #ffffff;
+$black: #111827;
+$primary:#f6582c;
+$secondary: rgba(30, 58, 138, 0.75);
+$ternary:  #6247AA;
+$border:   #E5E7EB;
+$gray:  #F5F8FA;
+$accent: var(--accent);
