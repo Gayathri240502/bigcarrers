@@ -42,6 +42,33 @@ const services = [
       { href: "/service/work-force-management", label: "Workforce Management" },
     ],
   },
+  {
+label: "Training",
+    link: "/training",
+    items: [
+      {
+        href: "/training/ai-ml",
+        label: "AI & ML Training",
+      },
+      {
+        href: "/training/cyber-security",
+        label: "Cyber Security Training",
+      },
+      {
+        href: "/training/devops",
+        label: "DevOps Training",
+      },
+      {
+        href: "/training/java",
+        label: "Java Training",
+      },
+      {
+        href: "/training/python",
+        label: "Python Training",
+      },
+    ],
+
+  },
   // {
   //   label: "Our Products",
   //   link: "/products",
