@@ -34,14 +34,14 @@ export const metadata = {
       "Become a job-ready Java Full Stack Developer with real-world projects covering Java, Spring Boot, REST APIs, MySQL, and React.",
     url: "https://bigcareers.solutions/training/java",
     type: "website",
-    image: "/logo.jpg",
+    image : "/products/java-coding.jpg",
   },
   twitter: {
     card: "summary_large_image",
     title: "Java Full Stack Training | Big Careers Technology Solutions",
     description:
       "Learn Java programming, backend development, databases, and frontend technologies in our Java Full Stack Training Program.",
-    image: "/logo.jpg",
+    image: "/products/java-coding.jpg",
   },
 };
 
@@ -89,7 +89,7 @@ export default function AIMLDetailsPage() {
     <>
       <PageHeading
         title="Java Full Stack Training Program"
-        bgSrc="/products/image.png"
+        bgSrc="/products/java7.jpeg"
         pageLinkText="Java Full Stack Training"
       />
       <Spacing lg="145" md="80" />
@@ -121,7 +121,7 @@ export default function AIMLDetailsPage() {
 
           <Div className="col-xl-5 offset-xl-1 col-lg-6">
             <Image
-              src="/products/java-logo.png"
+              src="/products/java3.jpeg"
               alt="Java Logo"
               className="w-100 cs-radius_15"
               width={300}
@@ -140,7 +140,7 @@ export default function AIMLDetailsPage() {
           <Div className="col-xl-5 col-lg-6">
             <Div className="cs-radius_15 cs-shine_hover_1">
               <Image
-                src="/products/java-coding.jpg"
+                src="/products/applicationsj.jpeg"
                 alt="Java Coding"
                 width={600}
                 height={600}
@@ -203,7 +203,7 @@ export default function AIMLDetailsPage() {
 
             <Div className="col-lg-6 col-md-12 text-center">
               <Image
-                src="/products/java-diagram.jpg"
+                src="/products/advancejava.jpeg"
                 alt="Java Full Stack Diagram"
                 className="img-fluid cs-radius_15 shadow-lg"
                 width={500}

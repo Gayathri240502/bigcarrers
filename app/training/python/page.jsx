@@ -89,7 +89,7 @@ export default function AIMLDetailsPage() {
     <>
       <PageHeading
         title="Python Full Stack Training Program"
-        bgSrc="/products/image.png"
+        bgSrc="/products/python.jpeg"
         pageLinkText="Python Full Stack Training"
       />
       <Spacing lg="145" md="80" />
@@ -122,7 +122,7 @@ export default function AIMLDetailsPage() {
 
           <Div className="col-xl-5 offset-xl-1 col-lg-6">
             <Image
-              src="/products/python-logo.png"
+              src="/products/plogo.jpeg"
               alt="Python Logo"
               className="w-100 cs-radius_15"
               width={300}
@@ -141,7 +141,7 @@ export default function AIMLDetailsPage() {
           <Div className="col-xl-5 col-lg-6">
             <Div className="cs-radius_15 cs-shine_hover_1">
               <Image
-                src="/products/python-coding.jpg"
+                src="/products/pcodind.jpeg"
                 alt="Python Coding"
                 width={600}
                 height={600}
@@ -204,7 +204,7 @@ export default function AIMLDetailsPage() {
 
             <Div className="col-lg-6 col-md-12 text-center">
               <Image
-                src="/products/python-diagram.jpg"
+                src="/products/pdiagram.jpeg"
                 alt="Python Full Stack Diagram"
                 className="img-fluid cs-radius_15 shadow-lg"
                 width={500}
