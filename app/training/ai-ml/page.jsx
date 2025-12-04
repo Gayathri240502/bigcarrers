@@ -124,7 +124,7 @@ export default function AIMLDetailsPage() {
 
           <Div className="col-xl-5 offset-xl-1 col-lg-6">
             <Image
-              src="/products/ai-ml-logo.png"
+              src="/products/ai1.png"
               alt="AI and ML Logo"
               className="w-100 cs-radius_15"
               width={300}
@@ -144,7 +144,7 @@ export default function AIMLDetailsPage() {
           <Div className="col-xl-5 col-lg-6">
             <Div className="cs-radius_15 cs-shine_hover_1">
               <Image
-                src="/products/ai-ml-coding.jpg"
+                src="/products/ai2.png"
                 alt="AI and Machine Learning Coding"
                 width={600}
                 height={600}
@@ -214,7 +214,7 @@ export default function AIMLDetailsPage() {
 
             <Div className="col-lg-6 col-md-12 text-center">
               <Image
-                src="/products/ai-ml-diagram.jpg"
+                src="/products/ai3.png"
                 alt="Key ML Workflow Diagram"
                 className="img-fluid cs-radius_15 shadow-lg"
                 width={500}
