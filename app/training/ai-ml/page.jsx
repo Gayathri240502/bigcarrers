@@ -90,7 +90,7 @@ export default function AIMLDetailsPage() {
      
       <PageHeading
         title="AI & ML Training Program"
-        bgSrc="/products/image.png"
+        bgSrc="/products/image1.png"
         pageLinkText="AI & ML Training"
       />
       <Spacing lg="145" md="80" />
