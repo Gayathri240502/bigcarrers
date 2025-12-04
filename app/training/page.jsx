@@ -83,7 +83,7 @@ export default function TrainingProgramsPage() {
     <>
       <PageHeading
         title="Our Training Programs"
-        bgSrc="/products/train.png"
+        bgSrc="/products/tr1.png"
         pageLinkText="Training"
       />
 
