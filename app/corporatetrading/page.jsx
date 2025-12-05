@@ -44,7 +44,7 @@ export default function CorporateTradingPage() {
       {/* Start Page Heading Section */}
       <PageHeading
         title="Corporate Trading & Support Services"
-        bgSrc="/services/corporate/trading-bg.jpg"
+        bgSrc="/services/c.png"
         pageLinkText="Corporate Trading"
       />
       {/* End Page Heading Section */}
@@ -75,7 +75,7 @@ export default function CorporateTradingPage() {
           {/* Right Column with Image */}
           <Div className="col-lg-6 col-md-12 text-center">
             <Image
-              src="/services/corporate/trading1.jpg"
+              src="/services/c2.png"
               className="img-fluid cs-radius_15 shadow-lg"
               alt="Corporate Trading"
               width={700}
@@ -96,7 +96,7 @@ export default function CorporateTradingPage() {
             <Div className="cs-image_layer cs-style1">
               <Div className="cs-image_layer_in">
                 <Image
-                  src="/services/corporate/trading2.jpg"
+                  src="/services/c3.png"
                   alt="Key Features"
                   className="w-100 cs-radius_15"
                   width={500}

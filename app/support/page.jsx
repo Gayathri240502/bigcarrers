@@ -96,7 +96,7 @@ export default function CorporateTradingPage() {
             <Div className="cs-image_layer cs-style1">
               <Div className="cs-image_layer_in">
                 <Image
-                  src="/services/corporate/trading2.jpg"
+                  src="/services/image.png"
                   alt="Support Services"
                   className="w-100 cs-radius_15"
                   width={500}
