@@ -196,25 +196,25 @@ const services = [
       { href: "/service/technology/ai-&-ml/advance-ml", label: "Advance ML" },
     ],
   },
-  {
-    label: "IoT Solutions",
-    link: "/service/technology/iot",
-    items: [
-      {
-        href: "/service/technology/iot/device-integration",
-        label: "Device Integration",
-      },
-      {
-        href: "/service/technology/iot/sensor-networks",
-        label: "Sensor Networks",
-      },
-      {
-        href: "/service/technology/iot/data-monitoring",
-        label: "Data Monitoring",
-      },
-      { href: "/service/technology/iot/iot-security", label: "IoT Security" },
-    ],
-  },
+  // {
+  //   label: "IoT Solutions",
+  //   link: "/service/technology/iot",
+  //   items: [
+  //     {
+  //       href: "/service/technology/iot/device-integration",
+  //       label: "Device Integration",
+  //     },
+  //     {
+  //       href: "/service/technology/iot/sensor-networks",
+  //       label: "Sensor Networks",
+  //     },
+  //     {
+  //       href: "/service/technology/iot/data-monitoring",
+  //       label: "Data Monitoring",
+  //     },
+  //     { href: "/service/technology/iot/iot-security", label: "IoT Security" },
+  //   ],
+  // },
 
   {
     label: "Data Engineering Analytics",
