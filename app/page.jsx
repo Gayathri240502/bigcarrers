@@ -8,6 +8,7 @@ import ServicesSection from "./csr/ServicesSection";
 import Button from "./ui/Button";
 import SuccessStory from "./csr/successStory";
 import ContactFooter from "./ui/contactpg";
+import WorkforceSolutions from "./cards";
 export default function Home() {
   return (
     <>
@@ -58,8 +59,8 @@ export default function Home() {
               width: "80%",
             }}
           >
-                Connecting Talent with Opportunity         
-       </h1>
+            Connecting Talent with Opportunity
+          </h1>
           <div
             style={{
               display: "flex",
@@ -77,6 +78,9 @@ export default function Home() {
                 padding: "20px 0",
               }}
             >
+              – Transforming manpower through continuous learning and innovative
+              tech capabilities.
+            </p>
 -We blend manpower expertise, continuous skill training, and smart technology platforms<br /> 
  to connect skilled talent with roles that match their strengths and support organizational growth.
          </p>
@@ -93,8 +97,17 @@ export default function Home() {
           {/* Subtitle & Button - Responsive Layout */}
         </div>
       </div>
-
+      <Spacing lg="80" md="60" />
+      <WorkforceSolutions />
       {/* Other Sections */}
+
+      <div id="service">
+        <ServicesSection />
+      </div>
+
+      {/* Moving Text Section */}
+
+      {/* <MovingText text="Our reputed Clients" /> */}
       <Spacing lg="85" md="40" />
       <Div className="container">
         <SectionHeading
@@ -106,20 +119,8 @@ export default function Home() {
       <Div className="container">
         <ClientTableList />
       </Div>
-
-      <div id="service">
-        <ServicesSection />
-      </div>
-
-      {/* Moving Text Section */}
-      <Spacing lg="125" md="70" />
-      {/* <MovingText text="Our reputed Clients" /> */}
-      <Spacing lg="105" md="70" />
-
       {/* Logo List Section */}
-      <Div className="container">
-        {/* <LogoList /> */}
-      </Div>
+      {/* <LogoList /> */}
       {/* <Spacing lg="80" md="60" />
       <SuccessStory /> */}
       <Spacing lg="80" md="60" />
