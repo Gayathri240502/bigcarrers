@@ -5,34 +5,35 @@ import Spacing from "/app/ui/Spacing";
 import ContactFooter from "/app/ui/contactpg";
 import Image from "next/image";
 
+
 export const metadata = {
-  title: "Business Support Services | Big Careers Solutions",
+  title: "Corporate Trading & Support Services | Big Careers Solutions",
   description:
-    "Big Careers Solutions delivers end-to-end support services including customer support, technical support, operational support, IT helpdesk, and service management for businesses of all sizes.",
+    "Discover Big Careers Solutions' corporate trading, supply support, procurement assistance, and end-to-end business trading solutions designed for organizations of all sizes.",
   keywords: [
-    "Support Services",
-    "Customer Support",
-    "Technical Support",
-    "IT Support",
-    "Business Support",
-    "Helpdesk Services",
-    "Operational Support",
-    "Service Management",
+    "Corporate Trading",
+    "Business Trading Solutions",
+    "Procurement Support",
+    "Supply Chain Assistance",
+    "Corporate Support Services",
+    "Trading Services",
+    "Business Operations Support",
+    "Logistics Coordination",
   ],
   robots: "index, follow",
   openGraph: {
-    title: "Business Support Services | Big Careers Solutions",
+    title: "Corporate Trading & Support Services | Big Careers Solutions",
     description:
-      "We provide professional customer support, technical support, IT helpdesk, and operations support tailored to business needs.",
-    url: "https://bigcareers.solutions/services/support",
+      "Big Careers Solutions provides professional corporate trading and support services including procurement, supply chain assistance, and commercial operations support.",
+    url: "https://bigcareers.solutions/services/corporate/trading",
     type: "website",
     image: "/logo.jpg",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Business Support Services | Big Careers Solutions",
+    title: "Corporate Trading & Support Services | Big Careers Solutions",
     description:
-      "Reliable business support, IT support, customer service, and helpdesk assistance for smooth operations.",
+      "Big Careers Solutions delivers end-to-end corporate trading and commercial support services tailored for modern business operations.",
     image: "/logo.jpg",
   },
 };
@@ -42,9 +43,9 @@ export default function CorporateTradingPage() {
     <>
       {/* Start Page Heading Section */}
       <PageHeading
-        title="Professional Business Support Services"
+        title="Corporate Trading & Support Services"
         bgSrc="/services/corporate/trading-bg.jpg"
-        pageLinkText="Support Services"
+        pageLinkText="Corporate Trading"
       />
       {/* End Page Heading Section */}
 
@@ -53,22 +54,21 @@ export default function CorporateTradingPage() {
       <Div className="container">
         <Div className="row align-items-center">
           <h3 className="text-primary mb-4">
-            Reliable Support Services Designed for Modern Businesses
+            Enabling Businesses with Reliable Corporate Trading Solutions
           </h3>
 
           {/* Left Column with Text */}
           <Div className="col-lg-6 col-md-12 mb-4 mb-lg-0">
             <p className="fs-6 mb-4">
-              Big Careers Solutions delivers comprehensive support services that
-              help organizations maintain smooth and uninterrupted operations.
-              Our team ensures your business receives dependable customer
-              service, technical assistance, and operational support at every
-              level.
+              At Big Careers Solutions, we specialize in providing efficient and
+              transparent corporate trading solutions. We support your business
+              with procurement assistance, vendor coordination, and supply chain
+              facilitation—ensuring smooth and uninterrupted operations.
             </p>
             <p className="mb-5">
-              From resolving service requests to managing IT support, we enable
-              your workforce to operate efficiently while improving customer
-              satisfaction and operational reliability.
+              Whether you are sourcing materials, managing vendors, or handling
+              commercial trading tasks, our team ensures accuracy, compliance,
+              and reliability in every transaction.
             </p>
           </Div>
 
@@ -77,7 +77,7 @@ export default function CorporateTradingPage() {
             <Image
               src="/services/corporate/trading1.jpg"
               className="img-fluid cs-radius_15 shadow-lg"
-              alt="Support Services"
+              alt="Corporate Trading"
               width={700}
               height={700}
             />
@@ -97,7 +97,7 @@ export default function CorporateTradingPage() {
               <Div className="cs-image_layer_in">
                 <Image
                   src="/services/corporate/trading2.jpg"
-                  alt="Support Services"
+                  alt="Key Features"
                   className="w-100 cs-radius_15"
                   width={500}
                   height={500}
@@ -106,19 +106,18 @@ export default function CorporateTradingPage() {
             </Div>
             <Spacing lg="0" md="40" />
           </Div>
-
           <Div className="col-xl-5 offset-xl-1 col-lg-6">
             <SectionHeading
-              title="Our Support Services"
-              subtitle="Reliable End-to-End Support for Your Business"
+              title="Key Services"
+              subtitle="Supporting Your End-to-End Corporate Trading Needs"
             >
               <Spacing lg="30" md="20" />
               <ul className="cs-m0">
-                <li>Customer support & service assistance</li>
-                <li>Technical support & troubleshooting</li>
-                <li>IT helpdesk & remote support</li>
-                <li>Operational support & workflow assistance</li>
-                <li>Service request handling & escalation management</li>
+                <li>Vendor sourcing & procurement support</li>
+                <li>Business trading & commercial coordination</li>
+                <li>Supply chain tracking and facilitation</li>
+                <li>Product sourcing and distribution support</li>
+                <li>Documentation, verification & compliance assistance</li>
               </ul>
               <Spacing lg="30" md="30" />
               <Div className="cs-separator cs-accent_bg"></Div>
@@ -138,7 +137,7 @@ export default function CorporateTradingPage() {
               <Div className="cs-image_layer_in">
                 <Image
                   src="/services/corporate/trading3.jpg"
-                  alt="Why Choose Our Support Services"
+                  alt="Why Choose Us"
                   className="w-100 cs-radius_15"
                   width={500}
                   height={500}
@@ -147,28 +146,24 @@ export default function CorporateTradingPage() {
             </Div>
             <Spacing lg="0" md="40" />
           </Div>
-
           <Div className="col-xl-5 offset-xl-1 col-lg-6">
             <SectionHeading
               title="Why Choose Us"
-              subtitle="Professional Support Services You Can Trust"
+              subtitle="Reliable Corporate Trading Support You Can Trust"
             >
               <Spacing lg="30" md="20" />
               <p className="cs-m0">
-                Our support specialists are trained to handle customer queries,
-                technical incidents, and service requests with precision and
-                professionalism. We ensure quick response times, proactive
-                follow-up, and smooth resolution of issues.
+                Big Careers Solutions ensures seamless and reliable trading
+                support for businesses across different industries. Our team
+                manages procurement, vendor relations, and supply operations
+                with professionalism and attention to detail.
               </p>
-
               <Spacing lg="15" md="15" />
-
               <p className="cs-m0">
-                With reliable support operations, we help businesses reduce
-                downtime, improve user satisfaction, and maintain operational
-                continuity across all departments.
+                We deliver accurate, timely, and transparent trading services
+                that help organizations focus on their core operations while we
+                handle the rest.
               </p>
-
               <Spacing lg="30" md="30" />
               <Div className="cs-separator cs-accent_bg"></Div>
               <Spacing lg="25" md="0" />
@@ -176,6 +171,7 @@ export default function CorporateTradingPage() {
           </Div>
         </Div>
       </Div>
+      
 
       <Spacing lg="150" md="80" />
       <ContactFooter />

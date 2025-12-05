@@ -6,33 +6,33 @@ import ContactFooter from "/app/ui/contactpg";
 import Image from "next/image";
 
 export const metadata = {
-  title: "Business Support Services | Big Careers Solutions",
+  title: "Human Resources Management Services | Big Careers Solutions",
   description:
-    "Big Careers Solutions delivers end-to-end support services including customer support, technical support, operational support, IT helpdesk, and service management for businesses of all sizes.",
+    "Big Careers Solutions provides end-to-end HR services including talent acquisition, workforce management, employee onboarding, HR outsourcing, and compliance support.",
   keywords: [
-    "Support Services",
-    "Customer Support",
-    "Technical Support",
-    "IT Support",
-    "Business Support",
-    "Helpdesk Services",
-    "Operational Support",
-    "Service Management",
+    "Human Resources",
+    "HR Services",
+    "Talent Acquisition",
+    "Workforce Management",
+    "HR Outsourcing",
+    "Employee Onboarding",
+    "HR Consulting",
+    "Human Capital Management",
   ],
   robots: "index, follow",
   openGraph: {
-    title: "Business Support Services | Big Careers Solutions",
+    title: "Human Resources Management Services | Big Careers Solutions",
     description:
-      "We provide professional customer support, technical support, IT helpdesk, and operations support tailored to business needs.",
-    url: "https://bigcareers.solutions/services/support",
+      "Professional HR solutions including recruitment, staffing, HR outsourcing, payroll support, and employee management for organizations.",
+    url: "https://bigcareers.solutions/services/hr",
     type: "website",
     image: "/logo.jpg",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Business Support Services | Big Careers Solutions",
+    title: "Human Resources Management Services | Big Careers Solutions",
     description:
-      "Reliable business support, IT support, customer service, and helpdesk assistance for smooth operations.",
+      "Providing business-ready HR solutions that empower workforce efficiency, productivity, and compliance.",
     image: "/logo.jpg",
   },
 };
@@ -42,9 +42,9 @@ export default function CorporateTradingPage() {
     <>
       {/* Start Page Heading Section */}
       <PageHeading
-        title="Professional Business Support Services"
+        title="Human Resources Management Services"
         bgSrc="/services/corporate/trading-bg.jpg"
-        pageLinkText="Support Services"
+        pageLinkText="Human Resources"
       />
       {/* End Page Heading Section */}
 
@@ -53,22 +53,23 @@ export default function CorporateTradingPage() {
       <Div className="container">
         <Div className="row align-items-center">
           <h3 className="text-primary mb-4">
-            Reliable Support Services Designed for Modern Businesses
+            Reliable Human Resource Solutions for Every Business
           </h3>
 
           {/* Left Column with Text */}
           <Div className="col-lg-6 col-md-12 mb-4 mb-lg-0">
             <p className="fs-6 mb-4">
-              Big Careers Solutions delivers comprehensive support services that
-              help organizations maintain smooth and uninterrupted operations.
-              Our team ensures your business receives dependable customer
-              service, technical assistance, and operational support at every
-              level.
+              Big Careers Solutions provides comprehensive Human Resource
+              services designed to support organizations in managing their most
+              valuable asset — people. We help companies streamline HR
+              operations, improve employee engagement, and implement workforce
+              strategies that drive long-term success.
             </p>
             <p className="mb-5">
-              From resolving service requests to managing IT support, we enable
-              your workforce to operate efficiently while improving customer
-              satisfaction and operational reliability.
+              From recruitment and onboarding to HR outsourcing and workforce
+              compliance, our team ensures your organization receives
+              professional and reliable HR support tailored to your business
+              needs.
             </p>
           </Div>
 
@@ -77,7 +78,7 @@ export default function CorporateTradingPage() {
             <Image
               src="/services/corporate/trading1.jpg"
               className="img-fluid cs-radius_15 shadow-lg"
-              alt="Support Services"
+              alt="Human Resources Solutions"
               width={700}
               height={700}
             />
@@ -97,7 +98,7 @@ export default function CorporateTradingPage() {
               <Div className="cs-image_layer_in">
                 <Image
                   src="/services/corporate/trading2.jpg"
-                  alt="Support Services"
+                  alt="HR Services"
                   className="w-100 cs-radius_15"
                   width={500}
                   height={500}
@@ -109,16 +110,16 @@ export default function CorporateTradingPage() {
 
           <Div className="col-xl-5 offset-xl-1 col-lg-6">
             <SectionHeading
-              title="Our Support Services"
-              subtitle="Reliable End-to-End Support for Your Business"
+              title="Our HR Services"
+              subtitle="End-to-End Human Resource Management for Your Organization"
             >
               <Spacing lg="30" md="20" />
               <ul className="cs-m0">
-                <li>Customer support & service assistance</li>
-                <li>Technical support & troubleshooting</li>
-                <li>IT helpdesk & remote support</li>
-                <li>Operational support & workflow assistance</li>
-                <li>Service request handling & escalation management</li>
+                <li>Talent acquisition & recruitment</li>
+                <li>Employee onboarding & orientation</li>
+                <li>HR outsourcing & workforce management</li>
+                <li>Payroll processing & attendance management</li>
+                <li>HR policies, documentation & compliance support</li>
               </ul>
               <Spacing lg="30" md="30" />
               <Div className="cs-separator cs-accent_bg"></Div>
@@ -138,7 +139,7 @@ export default function CorporateTradingPage() {
               <Div className="cs-image_layer_in">
                 <Image
                   src="/services/corporate/trading3.jpg"
-                  alt="Why Choose Our Support Services"
+                  alt="Why Choose Our HR Services"
                   className="w-100 cs-radius_15"
                   width={500}
                   height={500}
@@ -151,22 +152,22 @@ export default function CorporateTradingPage() {
           <Div className="col-xl-5 offset-xl-1 col-lg-6">
             <SectionHeading
               title="Why Choose Us"
-              subtitle="Professional Support Services You Can Trust"
+              subtitle="Professional & Efficient HR Support You Can Rely On"
             >
               <Spacing lg="30" md="20" />
               <p className="cs-m0">
-                Our support specialists are trained to handle customer queries,
-                technical incidents, and service requests with precision and
-                professionalism. We ensure quick response times, proactive
-                follow-up, and smooth resolution of issues.
+                Our HR team brings expertise, accuracy, and professionalism to
+                every process — from hiring talent to managing employee
+                relations. We help businesses reduce operational workload while
+                improving employee satisfaction and workplace efficiency.
               </p>
 
               <Spacing lg="15" md="15" />
 
               <p className="cs-m0">
-                With reliable support operations, we help businesses reduce
-                downtime, improve user satisfaction, and maintain operational
-                continuity across all departments.
+                By combining modern HR practices with industry-specific
+                strategies, we ensure your workforce remains motivated,
+                compliant, and aligned with your organizational goals.
               </p>
 
               <Spacing lg="30" md="30" />

@@ -6,33 +6,33 @@ import ContactFooter from "/app/ui/contactpg";
 import Image from "next/image";
 
 export const metadata = {
-  title: "Business Support Services | Big Careers Solutions",
+  title: "Manpower Supply Services | Big Careers Solutions",
   description:
-    "Big Careers Solutions delivers end-to-end support services including customer support, technical support, operational support, IT helpdesk, and service management for businesses of all sizes.",
+    "Big Careers Solutions provides skilled, semi-skilled, and unskilled manpower supply to support businesses across industries with flexible, reliable workforce solutions.",
   keywords: [
-    "Support Services",
-    "Customer Support",
-    "Technical Support",
-    "IT Support",
-    "Business Support",
-    "Helpdesk Services",
-    "Operational Support",
-    "Service Management",
+    "Manpower Supply",
+    "Workforce Solutions",
+    "Temporary Staffing",
+    "Skilled Manpower",
+    "Contract Staffing",
+    "Project-Based Workforce",
+    "Recruitment Services",
+    "Business Workforce Support",
   ],
   robots: "index, follow",
   openGraph: {
-    title: "Business Support Services | Big Careers Solutions",
+    title: "Manpower Supply Services | Big Careers Solutions",
     description:
-      "We provide professional customer support, technical support, IT helpdesk, and operations support tailored to business needs.",
-    url: "https://bigcareers.solutions/services/support",
+      "Reliable manpower supply solutions including temporary staffing, project-based workforce, and employer-on-record services for all industries.",
+    url: "https://bigcareers.solutions/services/corporate/manpower",
     type: "website",
     image: "/logo.jpg",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Business Support Services | Big Careers Solutions",
+    title: "Manpower Supply Services | Big Careers Solutions",
     description:
-      "Reliable business support, IT support, customer service, and helpdesk assistance for smooth operations.",
+      "Providing end-to-end manpower supply and workforce outsourcing solutions to modern businesses.",
     image: "/logo.jpg",
   },
 };
@@ -42,9 +42,9 @@ export default function CorporateTradingPage() {
     <>
       {/* Start Page Heading Section */}
       <PageHeading
-        title="Professional Business Support Services"
+        title="Manpower Supply Services"
         bgSrc="/services/corporate/trading-bg.jpg"
-        pageLinkText="Support Services"
+        pageLinkText="Manpower Supply"
       />
       {/* End Page Heading Section */}
 
@@ -53,31 +53,31 @@ export default function CorporateTradingPage() {
       <Div className="container">
         <Div className="row align-items-center">
           <h3 className="text-primary mb-4">
-            Reliable Support Services Designed for Modern Businesses
+            Empowering Businesses with Skilled Manpower Supply Solutions
           </h3>
 
-          {/* Left Column with Text */}
+          {/* Left Column */}
           <Div className="col-lg-6 col-md-12 mb-4 mb-lg-0">
             <p className="fs-6 mb-4">
-              Big Careers Solutions delivers comprehensive support services that
-              help organizations maintain smooth and uninterrupted operations.
-              Our team ensures your business receives dependable customer
-              service, technical assistance, and operational support at every
-              level.
+              At Big Careers Solutions, we provide reliable manpower supply
+              services designed to help organizations meet workforce demands
+              quickly and efficiently. Whether you need temporary staffing,
+              project-based teams, or long-term workforce support, we connect
+              you with talented individuals who match your business needs.
             </p>
             <p className="mb-5">
-              From resolving service requests to managing IT support, we enable
-              your workforce to operate efficiently while improving customer
-              satisfaction and operational reliability.
+              Our manpower solutions ensure your operations run smoothly by
+              delivering the right talent at the right time — enhancing
+              productivity, agility, and business continuity.
             </p>
           </Div>
 
-          {/* Right Column with Image */}
+          {/* Right Column */}
           <Div className="col-lg-6 col-md-12 text-center">
             <Image
               src="/services/corporate/trading1.jpg"
               className="img-fluid cs-radius_15 shadow-lg"
-              alt="Support Services"
+              alt="Manpower Supply Services"
               width={700}
               height={700}
             />
@@ -88,7 +88,7 @@ export default function CorporateTradingPage() {
       </Div>
       {/* End About Section */}
 
-      {/* Start Key Features Section */}
+      {/* Start Key Services Section */}
       <Spacing lg="100" md="80" />
       <Div className="container">
         <Div className="row">
@@ -97,7 +97,7 @@ export default function CorporateTradingPage() {
               <Div className="cs-image_layer_in">
                 <Image
                   src="/services/corporate/trading2.jpg"
-                  alt="Support Services"
+                  alt="Key Manpower Services"
                   className="w-100 cs-radius_15"
                   width={500}
                   height={500}
@@ -106,19 +106,18 @@ export default function CorporateTradingPage() {
             </Div>
             <Spacing lg="0" md="40" />
           </Div>
-
           <Div className="col-xl-5 offset-xl-1 col-lg-6">
             <SectionHeading
-              title="Our Support Services"
-              subtitle="Reliable End-to-End Support for Your Business"
+              title="Our Key Manpower Services"
+              subtitle="Connecting You With the Workforce You Need"
             >
               <Spacing lg="30" md="20" />
               <ul className="cs-m0">
-                <li>Customer support & service assistance</li>
-                <li>Technical support & troubleshooting</li>
-                <li>IT helpdesk & remote support</li>
-                <li>Operational support & workflow assistance</li>
-                <li>Service request handling & escalation management</li>
+                <li>Skilled, semi-skilled, and unskilled manpower supply</li>
+                <li>Temporary, contract, and on-demand staffing</li>
+                <li>Workforce outsourcing & employer-on-record solutions</li>
+                <li>Project-based workforce deployment</li>
+                <li>Screening, onboarding & compliance management</li>
               </ul>
               <Spacing lg="30" md="30" />
               <Div className="cs-separator cs-accent_bg"></Div>
@@ -127,7 +126,7 @@ export default function CorporateTradingPage() {
           </Div>
         </Div>
       </Div>
-      {/* End Key Features Section */}
+      {/* End Key Services Section */}
 
       {/* Start Why Choose Us Section */}
       <Spacing lg="100" md="80" />
@@ -138,7 +137,7 @@ export default function CorporateTradingPage() {
               <Div className="cs-image_layer_in">
                 <Image
                   src="/services/corporate/trading3.jpg"
-                  alt="Why Choose Our Support Services"
+                  alt="Why Choose Our Manpower Supply"
                   className="w-100 cs-radius_15"
                   width={500}
                   height={500}
@@ -147,26 +146,25 @@ export default function CorporateTradingPage() {
             </Div>
             <Spacing lg="0" md="40" />
           </Div>
-
           <Div className="col-xl-5 offset-xl-1 col-lg-6">
             <SectionHeading
               title="Why Choose Us"
-              subtitle="Professional Support Services You Can Trust"
+              subtitle="Your Trusted Partner in Workforce Solutions"
             >
               <Spacing lg="30" md="20" />
               <p className="cs-m0">
-                Our support specialists are trained to handle customer queries,
-                technical incidents, and service requests with precision and
-                professionalism. We ensure quick response times, proactive
-                follow-up, and smooth resolution of issues.
+                Big Careers Solutions is committed to providing dependable and
+                scalable manpower supply services that empower businesses across
+                industries. We ensure every candidate is screened, verified, and
+                aligned with your operational requirements.
               </p>
 
               <Spacing lg="15" md="15" />
 
               <p className="cs-m0">
-                With reliable support operations, we help businesses reduce
-                downtime, improve user satisfaction, and maintain operational
-                continuity across all departments.
+                With our extensive talent pool, fast deployment capabilities, and
+                commitment to workforce excellence, we help you maintain
+                uninterrupted operations and achieve optimal performance.
               </p>
 
               <Spacing lg="30" md="30" />
