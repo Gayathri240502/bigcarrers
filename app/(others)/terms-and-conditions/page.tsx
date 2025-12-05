@@ -3,11 +3,11 @@ import PageHeading from "../../ui/PageHeading";
 import ContactFooter from "../../ui/contactpg";
 
 export const metadata = {
-  title: "Terms and Conditions | Big Careers Technology solutions",
+  title: "Terms and Conditions | Big Careers  solutions",
   description:
-    "Read Big Careers Technology solutions's Terms and Conditions to understand the policies governing the use of our AI & ML, Cyber Security, IoT, Blockchain, SAP, DevOps, Cloud, Salesforce, Consulting, and Data Engineering services.",
+    "Read Big Careers solutions's Terms and Conditions to understand the policies governing the use of our AI & ML, Cyber Security, IoT, Blockchain, SAP, DevOps, Cloud, Salesforce, Consulting, and Data Engineering services.",
   keywords: [
-    "Big Careers Technology solutions Terms and Conditions",
+    "Big Careers  solutions Terms and Conditions",
     "Service Terms",
     "AI & ML Policy",
     "Cyber Security Terms",
@@ -21,18 +21,18 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "Terms and Conditions | Big Careers Technology solutions",
+    title: "Terms and Conditions | Big Careers  solutions",
     description:
-      "Understand Big Careers Technology solutions's terms of service for AI, Cyber Security, IoT, Blockchain, SAP, Cloud, and more.",
+      "Understand Big Careers  solutions's terms of service for AI, Cyber Security, IoT, Blockchain, SAP, Cloud, and more.",
     url: "https://bigcareers.solutions/terms-and-conditions",
     type: "website",
     image: "/logo.jpg",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Terms and Conditions | Big Careers Technology solutions",
+    title: "Terms and Conditions | Big Careers solutions",
     description:
-      "Review Big Careers Technology solutions's terms and conditions for using our AI, Cyber Security, Cloud, and other technology services.",
+      "Review Big Careers  solutions's terms and conditions for using our AI, Cyber Security, Cloud, and other technology services.",
     image: "/logo.jpg",
   },
 };
@@ -264,7 +264,7 @@ const terms = () => {
           alliance by us as for the connected site, its proprietors or its
           suppliers, except if explicitly expressed in that. We give these
           connections just as a comfort to you. By entering Big Careers Technology solutions.com you
-          recognize and concur that Big Careers Technology solutions has not investigated or tried any
+          recognize and concur thAt Big Careers solutions has not investigated or tried any
           data, programming or items found on these sites and accordingly.
         </p>
       </div>

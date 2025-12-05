@@ -156,7 +156,7 @@ export default function AdvanceMLPage() {
             >
               <Spacing lg="30" md="20" />
               <p className="cs-m0">
-                At Big Careers Technology solutions, we excel in delivering
+                At Big Careers solutions, we excel in delivering
                 tailored solutions that drive business growth, efficiency, and
                 security. Our proven expertise, scalability, and focus on
                 seamless integration make us your ideal partner for advanced

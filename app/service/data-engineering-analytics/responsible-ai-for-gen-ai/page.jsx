@@ -64,7 +64,7 @@ export default function ResponsibleAIforGenAIPage() {
           {/* Left Column with Text */}
           <Div className="col-lg-6 col-md-12 mb-4 mb-lg-0">
             <p className="fs-6 mb-4">
-              At Big Careers Technology solutions, we prioritize the responsible
+              At Big Careers solutions, we prioritize the responsible
               deployment of AI technologies to ensure that they are aligned with
               ethical standards. Our Responsible AI for Gen AI solutions are
               designed to mitigate bias, ensure transparency, and ensure

@@ -8,7 +8,7 @@ import {
 import ContactFooter from "/app/ui/contactpg";
 
 export const metadata = {
-  title: "Training Programs | Big Careers Technology solutions",
+  title: "Training Programs | Big Careers  solutions",
   description:
    "Upgrade your workforce or career with industry-backed training programs in emerging technologies including AI, Cloud, DevOps, Salesforce, Data Engineering, and Full Stack.",
     keywords: [
@@ -19,11 +19,11 @@ export const metadata = {
     "Python Training",
     "IT Training",
     "Technology Courses",
-    "Big Careers Technology solutions Training",
+    "Big Careers  solutions Training",
   ],
   robots: "index, follow",
   openGraph: {
-    title: "Training Programs | Big Careers Technology solutions| Talent & Training Partner for the Future",
+    title: "Training Programs | Big Careers  solutions| Talent & Training Partner for the Future",
     description:
       "Upgrade your workforce or career with industry-backed training programs in emerging technologies including AI, Cloud, DevOps, Salesforce, Data Engineering, and Full Stack.",
       url: "https://bigcareers.solutions/training",
@@ -32,7 +32,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Training Programs | Big Careers Technology solutions",
+    title: "Training Programs | Big Careers  solutions",
     description:
       "Upgrade your workforce or career with industry-backed training programs in emerging technologies including AI, Cloud, DevOps, Salesforce, Data Engineering, and Full Stack.",
       image: "/logo.jpg",

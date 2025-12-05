@@ -8,9 +8,9 @@ import Div from "../ui/Div";
 import ContactFooter from "/app/ui/contactpg";
 
 export const metadata = {
-  title: "Services | Big Careers Technology solutions",
+  title: "Services | Big Careers  solutions",
   description:
-    "Big Careers Technology solutions offers a wide range of services in AI & ML, blockchain, cybersecurity, data engineering, IoT, workforce management, and more, helping businesses drive innovation and achieve their goals through tailored solutions.",
+    "Big Careers  solutions offers a wide range of services in AI & ML, blockchain, cybersecurity, data engineering, IoT, workforce management, and more, helping businesses drive innovation and achieve their goals through tailored solutions.",
   keywords: [
     "Services",
     "AI & ML",
@@ -29,18 +29,18 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "Services | Big Careers Technology solutions",
+    title: "Services | Big Careers  solutions",
     description:
-      "Discover the wide range of services offered by Big Careers Technology solutions, including AI & ML, blockchain, cybersecurity, data engineering, IoT, and workforce management, designed to help businesses innovate and grow.",
+      "Discover the wide range of services offered by Big CareersTechnology solutions, including AI & ML, blockchain, cybersecurity, data engineering, IoT, and workforce management, designed to help businesses innovate and grow.",
     url: "https://bigcareers.solutions/services",
     type: "website",
     image: "/logo.jpg",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Services | Big Careers Technology solutions",
+    title: "Services | Big Careers  solutions",
     description:
-      "Explore Big Careers Technology solutions’s services, including AI, blockchain, cybersecurity, data engineering, and more, designed to help businesses thrive through innovation and tailored solutions.",
+      "Explore Big Careers  solutions’s services, including AI, blockchain, cybersecurity, data engineering, and more, designed to help businesses thrive through innovation and tailored solutions.",
     image: "/logo.jpg",
   },
 };

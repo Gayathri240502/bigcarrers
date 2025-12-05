@@ -63,7 +63,7 @@ export default function BankingFinanceDetailsPage() {
               and 24/7 access.
             </p>
             <p>
-              At Big Careers Technology solutions, we offer tailored solutions
+              At Big Careers solutions, we offer tailored solutions
               like smart mobile banking and consulting services to help banks
               address these challenges while improving operational efficiency
               and enhancing customer engagement.

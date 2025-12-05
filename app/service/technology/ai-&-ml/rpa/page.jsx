@@ -156,7 +156,7 @@ export default function RpaPage() {
             >
               <Spacing lg="30" md="20" />
               <p className="cs-m0">
-                At Big Careers Technology solutions, we specialize in
+                At Big Careers solutions, we specialize in
                 **enterprise-grade RPA solutions**, ensuring seamless
                 integration, high performance, and tangible business benefits.
               </p>

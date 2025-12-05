@@ -3,9 +3,9 @@ import PageHeading from "../../ui/PageHeading";
 import ContactFooter from "../../ui/contactpg";
 
 export const metadata = {
-  title: "Privacy Policy | Big Careers Technology solutions",
+  title: "Privacy Policy | Big Careers  solutions",
   description:
-    "Read Big Careers Technology solutions's Privacy Policy to understand how we collect, use, and protect your personal information. We prioritize data security and transparency in AI & ML, Cyber Security, IoT, Blockchain, SAP, DevOps, Cloud, and more.",
+    "Read Big Careers  solutions's Privacy Policy to understand how we collect, use, and protect your personal information. We prioritize data security and transparency in AI & ML, Cyber Security, IoT, Blockchain, SAP, DevOps, Cloud, and more.",
   keywords: [
     "Big Careers Technology solutions Privacy Policy",
     "Data Protection",
@@ -20,18 +20,18 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "Privacy Policy | Big Careers Technology solutions",
+    title: "Privacy Policy | Big Careers  solutions",
     description:
-      "Learn how Big Careers Technology solutions handles data privacy and security across AI, Cyber Security, IoT, Blockchain, SAP, and other technology domains.",
+      "Learn how Big Careers solutions handles data privacy and security across AI, Cyber Security, IoT, Blockchain, SAP, and other technology domains.",
     url: "https://bigcareers.solutions/privacy-policy",
     type: "website",
     image: "/logo.jpg",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Privacy Policy | Big Careers Technology solutions",
+    title: "Privacy Policy | Big Careers  solutions",
     description:
-      "Big Careers Technology solutions is committed to protecting your privacy. Learn more about our data policies and security measures.",
+      "Big Careers  solutions is committed to protecting your privacy. Learn more about our data policies and security measures.",
     image: "/logo.jpg",
   },
 };

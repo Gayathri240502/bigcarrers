@@ -197,7 +197,7 @@ export default function AboutPage() {
       <Div className="container">
         <FunFact
           title="Achievements"
-          subtitle="At Big Careers Technology solutions, we revolutionize industries with cutting-edge solutions, empowering businesses through innovation and scalability."
+          subtitle="At Big Careers solutions, we revolutionize industries with cutting-edge solutions, empowering businesses through innovation and scalability."
           data={funfaceData}
         />
       </Div>
@@ -228,7 +228,7 @@ export default function AboutPage() {
             >
               <Spacing lg="30" md="20" />
               <p className="cs-m0">
-                At Big Careers Technology solutions, we specialize in delivering
+                At Big Careers solutions, we specialize in delivering
                 innovative AI, ML, Blockchain, and IoT solutions that drive
                 efficiency, security, and business growth. Our team has a proven
                 track record in transforming businesses with advanced

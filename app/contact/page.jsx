@@ -73,20 +73,20 @@ export default function ContactPage() {
         <title>Contact Us | Big Careers Technology solutions</title>
         <meta
           name="description"
-          content="Get in touch with Big Careers Technology solutions for AI & ML, Cyber Security, IoT, Blockchain, Cloud, and consulting services."
+          content="Get in touch with Big Careers  solutions for AI & ML, Cyber Security, IoT, Blockchain, Cloud, and consulting services."
         />
         <meta
           name="keywords"
-          content="Contact Big Careers Technology solutions, AI, Cyber Security, Blockchain, SAP, DevOps, Cloud, Consulting"
+          content="Contact Big Careers  solutions, AI, Cyber Security, Blockchain, SAP, DevOps, Cloud, Consulting"
         />
         <meta name="robots" content="index, follow" />
         <meta
           property="og:title"
-          content="Contact Us | Big Careers Technology solutions"
+          content="Contact Us | Big Careers  solutions"
         />
         <meta
           property="og:description"
-          content="Reach out to Big Careers Technology solutions for expert support in AI, Cyber Security, and more."
+          content="Reach out to Big Careers solutions for expert support in AI, Cyber Security, and more."
         />
         <meta property="og:image" content="/logo.jpg" />
         <meta
@@ -96,11 +96,11 @@ export default function ContactPage() {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="Contact Us | Big Careers Technology solutions"
+          content="Contact Us | Big Careers  solutions"
         />
         <meta
           name="twitter:description"
-          content="Need assistance? Contact Big Careers Technology solutions today."
+          content="Need assistance? Contact Big Careers  solutions today."
         />
         <meta name="twitter:image" content="/logo.jpg" />
       </Head>
