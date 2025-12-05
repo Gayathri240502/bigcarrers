@@ -98,7 +98,7 @@ export default function Home() {
       <Spacing lg="85" md="40" />
       <Div className="container">
         <SectionHeading
-          title="At Big Careers Technology solutions"
+          title="At Big Careers solutions"
           subtitle="We collaborate with startups and enterprises to provide tailored AI, IoT, cybersecurity, blockchain, workforce management, and data analytics solutions that drive measurable business success."
         />
       </Div>
