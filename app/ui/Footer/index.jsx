@@ -7,6 +7,7 @@ import Link from "next/link";
 import Spacing from "../Spacing";
 import { MdEmail } from "react-icons/md";
 import { FaLocationDot } from "react-icons/fa6";
+import { it } from "node:test";
 
 const services = [
   {
@@ -197,6 +198,25 @@ label: "Training",
       { href: "/service/technology/ai-&-ml/advance-ml", label: "Advance ML" },
     ],
   },
+   {
+    link: "/",
+    label: "What We Do",
+    items: [
+      {
+        href: "/humanresources",
+        label: "Human Resources Activity",
+      },
+      {
+        href: "/corporatetrading",
+        label: "Corporate Trading",
+      },
+
+      {
+        href: "/manpowersupply",
+        label: "Manpower Supply",
+      },
+    ],
+  },
   // {
   //   label: "IoT Solutions",
   //   link: "/service/technology/iot",
@@ -302,6 +322,9 @@ export default function Footer({ copyrightText, logoSrc, logoAlt, text }) {
                       <Link href="/terms-and-conditions">
                         Terms and Conditions
                       </Link>
+                    </li>
+                    <li className="mt-2">
+                      <Link href="/support">Support</Link>
                     </li>
                      <li className="mt-2">
                       <Link href="/shipping-and-exchange">

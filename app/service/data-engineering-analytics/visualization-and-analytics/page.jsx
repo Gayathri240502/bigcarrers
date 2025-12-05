@@ -62,7 +62,7 @@ export default function VisualizationAndAnalyticsPage() {
           {/* Left Column with Text */}
           <Div className="col-lg-6 col-md-12 mb-4 mb-lg-0">
             <p className="fs-6 mb-4">
-              At Big Careers Technology solutions, we empower businesses to make
+              At Big Careers solutions, we empower businesses to make
               data-driven decisions through advanced data visualization and
               analytics. Our services include interactive dashboards, custom
               reports, and real-time data visualizations that provide deep

@@ -62,7 +62,7 @@ export default function AutomationPage() {
           {/* Left Column with Text */}
           <Div className="col-lg-6 col-md-12 mb-4 mb-lg-0">
             <p className="fs-6 mb-4">
-              At Big Careers Technology solutions, we provide AI-powered
+              At Big Careers solutions, we provide AI-powered
               automation solutions to help you streamline your business
               processes, reduce manual tasks, and improve overall efficiency.
               Our automation tools empower your teams to focus on higher-value

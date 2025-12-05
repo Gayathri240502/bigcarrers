@@ -62,7 +62,7 @@ export default function MediaTechnologyDetailsPage() {
               evolving consumer preferences, and innovative platforms.
             </p>
             <p>
-              At Big Careers Technology solutions, we provide tailored solutions
+              At Big Careers solutions, we provide tailored solutions
               to empower your business to thrive in this ever-evolving
               landscape.
             </p>

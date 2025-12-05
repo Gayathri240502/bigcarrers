@@ -38,7 +38,7 @@ export default function Home() {
             zIndex: 1,
           }}
         ></div>
-
+ 
         <div
           style={{
             width: "100%",
@@ -78,12 +78,9 @@ export default function Home() {
                 padding: "20px 0",
               }}
             >
-              – Transforming manpower through continuous learning and innovative
-              tech capabilities.
+              – We blend manpower expertise, continuous skill training, and smart technology platforms <br />
+               to connect skilled talent with roles that match their strengths and support organizational growth.
             </p>
--We blend manpower expertise, continuous skill training, and smart technology platforms<br /> 
- to connect skilled talent with roles that match their strengths and support organizational growth.
-         </p>
             <div style={{ display: "flex", justifyContent: "start" }}>
               <Button
                 style={{ maxWidth: "600px", width: "100%" }}
@@ -93,20 +90,20 @@ export default function Home() {
               />
             </div>
           </div>
-
+ 
           {/* Subtitle & Button - Responsive Layout */}
         </div>
       </div>
       <Spacing lg="80" md="60" />
       <WorkforceSolutions />
       {/* Other Sections */}
-
+ 
       <div id="service">
         <ServicesSection />
       </div>
-
+ 
       {/* Moving Text Section */}
-
+ 
       {/* <MovingText text="Our reputed Clients" /> */}
       <Spacing lg="85" md="40" />
       <Div className="container">
@@ -115,7 +112,7 @@ export default function Home() {
           subtitle="We collaborate with startups and enterprises to provide tailored AI, IoT, cybersecurity, blockchain, workforce management, and data analytics solutions that drive measurable business success."
         />
       </Div>
-
+ 
       <Div className="container">
         <ClientTableList />
       </Div>
@@ -125,7 +122,7 @@ export default function Home() {
       <SuccessStory /> */}
       <Spacing lg="80" md="60" />
       <ContactFooter />
-
+ 
       {/* Responsive Styles using Media Queries */}
       <style>
         {`
@@ -140,3 +137,4 @@ export default function Home() {
     </>
   );
 }
+ 

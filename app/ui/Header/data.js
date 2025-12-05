@@ -4,7 +4,7 @@ export const navLinks = [
   { href: "/", label: "Home" },
 
   {
-    href: "/manpower",
+    href: "/",
     label: "What We Do",
     children: [
       {
