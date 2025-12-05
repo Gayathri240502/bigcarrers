@@ -177,7 +177,30 @@ export default function CorporateTradingPage() {
         </Div>
       </Div>
 
+<<<<<<< HEAD
       <Spacing lg="150" md="80" />
+=======
+      <Div className="container">
+        <ClientTableList />
+      </Div>
+
+      <div id="service">
+        <ServicesSection />
+      </div>
+
+      {/* Moving Text Section */}
+      <Spacing lg="125" md="70" />
+      {/* <MovingText text="Our reputed Clients" /> */}
+      <Spacing lg="105" md="70" />
+
+      {/* Logo List Section */}
+      <Div className="container">
+        {/* <LogoList /> */}
+      </Div>
+      {/* <Spacing lg="80" md="60" />
+      <SuccessStory /> */}
+      <Spacing lg="80" md="60" />
+>>>>>>> 4c791969f5a25bd988e4b67b4a502b9c79ba7bac
       <ContactFooter />
     </>
   );

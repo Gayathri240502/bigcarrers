@@ -117,7 +117,7 @@ export default function AIMLDetailsPage() {
               </p>
             </SectionHeading>
             <Spacing lg="30" md="20" />
-            <a href="#" className="btn btn-primary">
+            <a href="/contact" className="btn btn-primary">
               Enroll Now
             </a>
           </Div>

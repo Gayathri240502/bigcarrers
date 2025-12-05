@@ -189,23 +189,23 @@ export const navLinks = [
     children: [
       {
         href: "/training/ai-ml",
-        label: "AI&ML",
+        label: "AI&ML Training",
       },
       {
         href: "/training/cyber-security",
-        label: "Cyber Security",
+        label: "Cyber Security Training",
       },
       {
         href: "/training/devops",
-        label: "DevOps",
+        label: "DevOps Training",
       },
       {
         href: "/training/java",
-        label: "Java",
+        label: "Java Training",
       },
       {
         href: "/training/python",
-        label: "Python",
+        label: "Python Training",
       },
     ],
   },
