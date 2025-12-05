@@ -264,7 +264,7 @@ const terms = () => {
           alliance by us as for the connected site, its proprietors or its
           suppliers, except if explicitly expressed in that. We give these
           connections just as a comfort to you. By entering Big Careers Technology solutions.com you
-          recognize and concur that Big Careers Technology solutions has not investigated or tried any
+          recognize and concur thAt Big Careers solutions has not investigated or tried any
           data, programming or items found on these sites and accordingly.
         </p>
       </div>

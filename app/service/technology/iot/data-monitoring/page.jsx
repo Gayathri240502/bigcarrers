@@ -63,7 +63,7 @@ export default function DataMonitoringPage() {
           {/* Left Column with Text */}
           <Div className="col-lg-6 col-md-12 mb-4 mb-lg-0">
             <p className="fs-6 mb-4">
-              At Big Careers Technology solutions, we provide advanced data
+              At Big Careers solutions, we provide advanced data
               monitoring solutions that allow businesses to track and analyze
               data in real time. Our monitoring systems give you instant
               insights into your operations, improving efficiency and enabling

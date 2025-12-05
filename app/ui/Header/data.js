@@ -3,7 +3,9 @@ import { Children } from "react";
 export const navLinks = [
   { href: "/", label: "Home" },
 
-  { href: "/manpower", label: "What We Do",
+  {
+    href: "/",
+    label: "What We Do",
     children: [
       {
         href: "/humanresources",
@@ -13,18 +15,12 @@ export const navLinks = [
         href: "/corporatetrading",
         label: "Corporate Trading",
       },
-      {
-        href: "/support",
-        label: "Support",
 
-      },
       {
         href: "/manpowersupply",
         label: "Manpower Supply",
       },
-
     ],
-
   },
   {
     href: "/service",
@@ -208,7 +204,8 @@ export const navLinks = [
   //     },
   //   ],
   // },
-  {    href: "/training",
+  {
+    href: "/training",
     label: "Training",
     children: [
       {

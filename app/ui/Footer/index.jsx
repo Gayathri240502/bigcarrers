@@ -7,6 +7,7 @@ import Link from "next/link";
 import Spacing from "../Spacing";
 import { MdEmail } from "react-icons/md";
 import { FaLocationDot } from "react-icons/fa6";
+import { it } from "node:test";
 
 const services = [
   {
@@ -43,7 +44,7 @@ const services = [
     ],
   },
   {
-label: "Training",
+    label: "Training",
     link: "/training",
     items: [
       {
@@ -67,7 +68,6 @@ label: "Training",
         label: "Python Training",
       },
     ],
-
   },
   // {
   //   label: "Our Products",
@@ -197,25 +197,44 @@ label: "Training",
       { href: "/service/technology/ai-&-ml/advance-ml", label: "Advance ML" },
     ],
   },
-  {
-    label: "IoT Solutions",
-    link: "/service/technology/iot",
+   {
+    link: "/",
+    label: "What We Do",
     items: [
       {
-        href: "/service/technology/iot/device-integration",
-        label: "Device Integration",
+        href: "/humanresources",
+        label: "Human Resources Activity",
       },
       {
-        href: "/service/technology/iot/sensor-networks",
-        label: "Sensor Networks",
+        href: "/corporatetrading",
+        label: "Corporate Trading",
       },
+
       {
-        href: "/service/technology/iot/data-monitoring",
-        label: "Data Monitoring",
+        href: "/manpowersupply",
+        label: "Manpower Supply",
       },
-      { href: "/service/technology/iot/iot-security", label: "IoT Security" },
     ],
   },
+  // {
+  //   label: "IoT Solutions",
+  //   link: "/service/technology/iot",
+  //   items: [
+  //     {
+  //       href: "/service/technology/iot/device-integration",
+  //       label: "Device Integration",
+  //     },
+  //     {
+  //       href: "/service/technology/iot/sensor-networks",
+  //       label: "Sensor Networks",
+  //     },
+  //     {
+  //       href: "/service/technology/iot/data-monitoring",
+  //       label: "Data Monitoring",
+  //     },
+  //     { href: "/service/technology/iot/iot-security", label: "IoT Security" },
+  //   ],
+  // },
 
   {
     label: "Data Engineering Analytics",
@@ -298,12 +317,13 @@ export default function Footer({ copyrightText, logoSrc, logoAlt, text }) {
                     <li className="mt-2">
                       <Link href="/contact">Contact</Link>
                     </li>
+                    
                     <li className="mt-2">
                       <Link href="/terms-and-conditions">
                         Terms and Conditions
                       </Link>
                     </li>
-                     <li className="mt-2">
+                    <li className="mt-2">
                       <Link href="/shipping-and-exchange">
                         Shipping and Exchange
                       </Link>

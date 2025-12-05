@@ -62,7 +62,7 @@ export default function DataEngineeringPage() {
           {/* Left Column with Text */}
           <Div className="col-lg-6 col-md-12 mb-4 mb-lg-0">
             <p className="fs-6 mb-4">
-              At Big Careers Technology solutions, we specialize in providing
+              At Big Careers solutions, we specialize in providing
               data engineering solutions that enable businesses to harness the
               power of their data. Our services include the creation of data
               architectures, pipelines, and scalable systems designed to support
@@ -156,7 +156,7 @@ export default function DataEngineeringPage() {
             >
               <Spacing lg="30" md="20" />
               <p className="cs-m0">
-                Our team at Big Careers Technology solutions provides robust and
+                Our team At Big Careers solutions provides robust and
                 scalable data engineering solutions tailored to meet the needs
                 of your business. We help build a solid data foundation that
                 enables you to make faster, data-driven decisions.

@@ -8,6 +8,7 @@ import ServicesSection from "./csr/ServicesSection";
 import Button from "./ui/Button";
 import SuccessStory from "./csr/successStory";
 import ContactFooter from "./ui/contactpg";
+import WorkforceSolutions from "./cards";
 export default function Home() {
   return (
     <>
@@ -37,7 +38,7 @@ export default function Home() {
             zIndex: 1,
           }}
         ></div>
-
+ 
         <div
           style={{
             width: "100%",
@@ -58,8 +59,8 @@ export default function Home() {
               width: "80%",
             }}
           >
-                Connecting Talent with Opportunity         
-       </h1>
+            Connecting Talent with Opportunity
+          </h1>
           <div
             style={{
               display: "flex",
@@ -77,7 +78,8 @@ export default function Home() {
                 padding: "20px 0",
               }}
             >
-              – Transforming manpower through continuous learning and innovative tech capabilities.
+              – We blend manpower expertise, continuous skill training, and smart technology platforms <br />
+               to connect skilled talent with roles that match their strengths and support organizational growth.
             </p>
             <div style={{ display: "flex", justifyContent: "start" }}>
               <Button
@@ -88,42 +90,39 @@ export default function Home() {
               />
             </div>
           </div>
-
+ 
           {/* Subtitle & Button - Responsive Layout */}
         </div>
       </div>
-
+      <Spacing lg="80" md="60" />
+      <WorkforceSolutions />
       {/* Other Sections */}
-      <Spacing lg="85" md="40" />
-      <Div className="container">
-        <SectionHeading
-          title="At Big Careers Technology solutions"
-          subtitle="We collaborate with startups and enterprises to provide tailored AI, IoT, cybersecurity, blockchain, workforce management, and data analytics solutions that drive measurable business success."
-        />
-      </Div>
-
-      <Div className="container">
-        <ClientTableList />
-      </Div>
-
+ 
       <div id="service">
         <ServicesSection />
       </div>
-
+ 
       {/* Moving Text Section */}
-      <Spacing lg="125" md="70" />
+ 
       {/* <MovingText text="Our reputed Clients" /> */}
-      <Spacing lg="105" md="70" />
-
-      {/* Logo List Section */}
+      <Spacing lg="85" md="40" />
       <Div className="container">
-        {/* <LogoList /> */}
+        <SectionHeading
+          title="At Big Careers solutions"
+          subtitle="We collaborate with startups and enterprises to provide tailored AI, IoT, cybersecurity, blockchain, workforce management, and data analytics solutions that drive measurable business success."
+        />
       </Div>
+ 
+      <Div className="container">
+        <ClientTableList />
+      </Div>
+      {/* Logo List Section */}
+      {/* <LogoList /> */}
       {/* <Spacing lg="80" md="60" />
       <SuccessStory /> */}
       <Spacing lg="80" md="60" />
       <ContactFooter />
-
+ 
       {/* Responsive Styles using Media Queries */}
       <style>
         {`
@@ -138,3 +137,4 @@ export default function Home() {
     </>
   );
 }
+ 

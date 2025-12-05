@@ -63,7 +63,7 @@ export default function IoTSecurityPage() {
           {/* Left Column with Text */}
           <Div className="col-lg-6 col-md-12 mb-4 mb-lg-0">
             <p className="fs-6 mb-4">
-              At Big Careers Technology solutions, we provide comprehensive IoT
+              At Big Careers solutions, we provide comprehensive IoT
               security solutions designed to safeguard your devices, networks,
               and data from potential threats. We ensure that your IoT
               infrastructure is protected from cyber risks, ensuring seamless

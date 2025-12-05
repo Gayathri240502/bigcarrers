@@ -157,7 +157,7 @@ export default function EnterpriseAIPage() {
             >
               <Spacing lg="30" md="20" />
               <p className="cs-m0">
-                At Big Careers Technology solutions, we bring unparalleled
+                At Big Careers solutions, we bring unparalleled
                 expertise in enterprise AI engineering. Our solutions are
                 designed to meet the demands of large-scale operations,
                 providing innovation and efficiency at every level.

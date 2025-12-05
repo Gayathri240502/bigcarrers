@@ -155,7 +155,7 @@ export default function ResponsibleAIPage() {
             >
               <Spacing lg="30" md="20" />
               <p className="cs-m0">
-                At Big Careers Technology solutions, we are committed to
+                At Big Careers solutions, we are committed to
                 ensuring that AI technologies are designed, developed, and
                 deployed in a responsible and ethical manner. Our Responsible AI
                 solutions offer transparency, fairness, and accountability,
