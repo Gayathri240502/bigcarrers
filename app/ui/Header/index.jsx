@@ -55,7 +55,7 @@ export default function Header({ variant }) {
               <div style={{ display: "flex", alignItems: "center" }}>
                 <Link href="/">
                   <Image
-                    src="/logo-bg.png"
+                    src="/logo-bg1.png"
                     alt="Logo"
                     width={100}
                     height={200}

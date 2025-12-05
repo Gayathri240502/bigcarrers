@@ -58,8 +58,8 @@ export default function Home() {
               width: "80%",
             }}
           >
-            Transforming Businesses With Smarter Digital Innovation
-          </h1>
+                Connecting Talent with Opportunity         
+       </h1>
           <div
             style={{
               display: "flex",
@@ -77,10 +77,7 @@ export default function Home() {
                 padding: "20px 0",
               }}
             >
-              – AI & ML, IoT ,Software Enterprise, SAP, DevOps, Cloud,
-              Salesforce, Consulting, Technology, Data Engineering & Analytics,
-              Workforce Management, Custom Software Development, Application
-              Integration, IT Infrastructure and Networking,
+              – Transforming manpower through continuous learning and innovative tech capabilities.
             </p>
             <div style={{ display: "flex", justifyContent: "start" }}>
               <Button
@@ -101,7 +98,7 @@ export default function Home() {
       <Div className="container">
         <SectionHeading
           title="At Big Careers Technology solutions"
-          subtitle="We partner with startups and enterprises to provide AI, IoT, cybersecurity, blockchain, workforce management, Data analytics solutions, customized to drive your business success."
+          subtitle="We collaborate with startups and enterprises to provide tailored AI, IoT, cybersecurity, blockchain, workforce management, and data analytics solutions that drive measurable business success."
         />
       </Div>
 

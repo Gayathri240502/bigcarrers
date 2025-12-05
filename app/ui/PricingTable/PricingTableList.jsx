@@ -3,74 +3,75 @@
 import React, { useState } from "react";
 
 export default function PricingTableList({ initialTab }) {
-  const [tab, setTab] = useState(initialTab || "ARTIFICIAL INTELLIGENCE");
+  const [tab, setTab] = useState(initialTab || "MAN POWER SERVICES");
 
   const cardsData = {
-    "ARTIFICIAL INTELLIGENCE": [
-      {
-        title: "Predictive Analytics",
-        features:
-          "Leverage advanced machine learning models to forecast future trends and behaviors, enabling data-driven decision-making for improved business outcomes.",
-      },
-      {
-        title: "Natural Language Processing",
-        features:
-          "Automate customer interactions and streamline text analysis through cutting-edge NLP models for sentiment analysis and contextual understanding.",
-      },
-      {
-        title: "Computer Vision",
-        features:
-          "Enable accurate image and video recognition for security, automation, and medical diagnosis applications.",
-      },
-      {
-        title: "AI Chatbots",
-        features:
-          "Provide responsive, intelligent virtual assistants to enhance customer experience and reduce operational costs.",
-      },
-      {
-        title: "Personalized Marketing",
-        features:
-          "Optimize marketing campaigns with AI-driven segmentation and customized content tailored to individual customer preferences.",
-      },
-      {
-        title: "AI Model Optimization",
-        features:
-          "Refine machine learning models for greater efficiency, accuracy, and scalability across various applications.",
-      },
+     "MAN POWER SERVICES": [
+  {
+    title: "Workforce Agility",
+    features:
+      "We help organizations stay adaptable, respond to market changes, and keep pace with the evolving future of work.",
+  },
+  {
+    title: "Direct Hire",
+    features:
+      "Decades of recruitment expertise enabling us to match and directly hire the right talent for your team.",
+  },
+  {
+    title: "Flexible Staffing",
+    features:
+      "From short-term skilled roles to large teams, we provide flexible workforce solutions with contract-to-hire options.",
+  },
+  {
+    title: "Onsite Management",
+    features:
+      "End-to-end onsite workforce management that integrates seamlessly with your operations for improved performance.",
+  },
+  {
+    title: "Technology-Driven Workforce Solutions",
+    features:
+      "AI and data-driven tools that streamline hiring, automate workflows, and enhance decision-making.",
+  },
+  {
+    title: "AI & Digital Capabilities",
+    features:
+      "Predictive analytics, NLP, computer vision, chatbots, personalized marketing, and model optimization.",
+  },
     ],
 
-    "software-enterprise": [
-      {
-        title: "Enterprise Resource Planning",
-        features:
-          "Streamline business operations with integrated ERP solutions, improving efficiency and reducing costs.",
-      },
-      {
-        title: "Customer Relationship Management",
-        features:
-          "Enhance customer interactions and track sales pipelines with advanced CRM tools.",
-      },
-      {
-        title: "Custom Software Development",
-        features:
-          "Develop tailored applications that meet unique organizational needs and drive innovation.",
-      },
-      {
-        title: "Cloud Integration",
-        features:
-          "Enable seamless data synchronization and scalability with robust cloud integration services.",
-      },
-      {
-        title: "Workflow Automation",
-        features:
-          "Boost productivity by automating repetitive tasks and optimizing workflows.",
-      },
-      {
-        title: "Business Intelligence Solutions",
-        features:
-          "Gain actionable insights from data analytics to make informed strategic decisions.",
-      },
-    ],
+    "TRAINING & TECH SERVICES": [
+  {
+    title: "AI, ML & Python",
+    features:
+      "Learn AI, machine learning, and Python with hands-on projects to build intelligent, real-world applications.",
+  },
+  {
+    title: "Java Full Stack",
+    features:
+      "Master Java, Spring Boot, and modern front-end tools to build scalable full-stack enterprise applications.",
+  },
+  {
+    title: "Web Full Stack",
+    features:
+      "Become a full-stack web developer using HTML, CSS, JS, React, Node.js, and APIs to create dynamic web apps.",
+  },
+  {
+    title: "Mobile Full Stack",
+    features:
+      "Build cross-platform mobile apps using React Native / Flutter with full backend integration.",
+  },
+  {
+    title: "Cybersecurity",
+    features:
+      "Gain practical skills in ethical hacking, network security, and threat prevention for modern security needs.",
+  },
+  {
+    title: "DevOps",
+    features:
+      "Learn CI/CD, Docker, Kubernetes, and automation tools to streamline development and deployment workflows.",
+  },
+],
+
 
     "workforce-management": [
       {
