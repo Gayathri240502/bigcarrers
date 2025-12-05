@@ -5,9 +5,9 @@ import Spacing from "../../ui/Spacing";
 import ContactFooter from "/app/ui/contactpg";
 
 export const metadata = {
-  title: "Media and Technology Services | Big Careers Technology solutions",
+  title: "Media and Technology Services | Big Careers  solutions",
   description:
-    "Discover Big Careers Technology solutions's innovative solutions for the Media and Technology industries, powered by AI & ML, Cyber Security, Blockchain, Data Analytics, and Cloud to transform media production, content distribution, and technology infrastructure.",
+    "Discover B solutions's innovative solutions for the Media and Technology industries, powered by AI & ML, Cyber Security, Blockchain, Data Analytics, and Cloud to transform media production, content distribution, and technology infrastructure.",
   keywords: [
     "Media and Technology Solutions",
     "AI in Media",
@@ -22,18 +22,18 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "Media and Technology Services | Big Careers Technology solutions",
+    title: "Media and Technology Services | Big Careers solutions",
     description:
-      "Big Careers Technology solutions offers cutting-edge AI, Blockchain, Cyber Security, and Data Analytics solutions for the Media and Technology industries, enhancing content creation and tech infrastructure.",
+      "Big Careers solutions offers cutting-edge AI, Blockchain, Cyber Security, and Data Analytics solutions for the Media and Technology industries, enhancing content creation and tech infrastructure.",
     url: "https://bigcareers.solutions/media-and-technology-services",
     type: "website",
     image: "/logo.jpg",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Media and Technology Services | Big Careers Technology solutions",
+    title: "Media and Technology Services | Big Careers solutions",
     description:
-      "Big Careers Technology solutions provides innovative solutions in AI, Cyber Security, Blockchain, and Data Analytics for the Media and Technology sectors.",
+      "Big Careers solutions provides innovative solutions in AI, Cyber Security, Blockchain, and Data Analytics for the Media and Technology sectors.",
     image: "/logo.jpg",
   },
 };

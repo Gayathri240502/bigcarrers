@@ -16,9 +16,9 @@ import {
 import ContactFooter from "/app/ui/contactpg";
 
 export const metadata = {
-  title: "ERP Solutions | Big Careers Technology solutions",
+  title: "ERP Solutions | Big Careers  solutions",
   description:
-    "Discover Big Careers Technology solutions's ERP solutions, leveraging AI, Cloud, Data Analytics, and Automation to optimize business processes, improve resource management, and enhance organizational efficiency.",
+    "Discover Big Careers  solutions's ERP solutions, leveraging AI, Cloud, Data Analytics, and Automation to optimize business processes, improve resource management, and enhance organizational efficiency.",
   keywords: [
     "ERP Solutions",
     "Enterprise Resource Planning",
@@ -33,18 +33,18 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "ERP Solutions | Big Careers Technology solutions",
+    title: "ERP Solutions | Big Careers  solutions",
     description:
-      "Big Careers Technology solutions offers advanced ERP solutions powered by AI, Cloud, and Data Analytics to enhance business processes, resource planning, and organizational efficiency.",
+      "Big Careers  solutions offers advanced ERP solutions powered by AI, Cloud, and Data Analytics to enhance business processes, resource planning, and organizational efficiency.",
     url: "https://bigcareers.solutions/erp-solutions",
     type: "website",
     image: "/logo.jpg",
   },
   twitter: {
     card: "summary_large_image",
-    title: "ERP Solutions | Big Careers Technology solutions",
+    title: "ERP Solutions | Big Careers  solutions",
     description:
-      "Big Careers Technology solutions provides innovative ERP solutions, optimizing business processes and resource management using AI, Cloud, and Data Analytics.",
+      "Big Careers  solutions provides innovative ERP solutions, optimizing business processes and resource management using AI, Cloud, and Data Analytics.",
     image: "/logo.jpg",
   },
 };

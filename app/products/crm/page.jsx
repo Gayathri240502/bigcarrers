@@ -16,9 +16,9 @@ import Image from "next/image";
 import ContactFooter from "/app/ui/contactpg";
 
 export const metadata = {
-  title: "CRM Solutions | Big Careers Technology solutions",
+  title: "CRM Solutions |  solutions",
   description:
-    "Explore Big Careers Technology solutions's CRM solutions, powered by AI & ML, Cloud, and Data Analytics to enhance customer relationship management, streamline sales, and improve customer experience.",
+    "Explore Big Career solutions's CRM solutions, powered by AI & ML, Cloud, and Data Analytics to enhance customer relationship management, streamline sales, and improve customer experience.",
   keywords: [
     "CRM Solutions",
     "Customer Relationship Management",
@@ -42,9 +42,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "CRM Solutions | Big Careers Technology solutions",
+    title: "CRM Solutions | Big Career solutions",
     description:
-      "Big Careers Technology solutions provides innovative CRM solutions using AI, Cloud, and Data Analytics to optimize customer relationship management.",
+      "Big Career solutions provides innovative CRM solutions using AI, Cloud, and Data Analytics to optimize customer relationship management.",
     image: "/logo.jpg",
   },
 };

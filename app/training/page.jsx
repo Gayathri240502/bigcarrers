@@ -10,8 +10,8 @@ import ContactFooter from "/app/ui/contactpg";
 export const metadata = {
   title: "Training Programs | Big Careers Technology solutions",
   description:
-    "Explore Big Careers Technology solutions's professional training programs in AI & ML, Cyber Security, DevOps, Java, and Python. Upskill with cutting-edge content and hands-on learning.",
-  keywords: [
+   "Upgrade your workforce or career with industry-backed training programs in emerging technologies including AI, Cloud, DevOps, Salesforce, Data Engineering, and Full Stack.",
+    keywords: [
     "AI & ML Training",
     "Cyber Security Training",
     "DevOps Training",
@@ -23,10 +23,10 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "Training Programs | Big Careers Technology solutions",
+    title: "Training Programs | Big Careers Technology solutions| Talent & Training Partner for the Future",
     description:
-      "Explore Big Careers Technology solutions's professional training programs in AI & ML, Cyber Security, DevOps, Java, and Python.",
-    url: "https://bigcareers.solutions/training",
+      "Upgrade your workforce or career with industry-backed training programs in emerging technologies including AI, Cloud, DevOps, Salesforce, Data Engineering, and Full Stack.",
+      url: "https://bigcareers.solutions/training",
     type: "website",
     image: "/logo.jpg",
   },
@@ -34,8 +34,8 @@ export const metadata = {
     card: "summary_large_image",
     title: "Training Programs | Big Careers Technology solutions",
     description:
-      "Big Careers Technology solutions offers expert training in AI, Cyber Security, DevOps, Java, and Python.",
-    image: "/logo.jpg",
+      "Upgrade your workforce or career with industry-backed training programs in emerging technologies including AI, Cloud, DevOps, Salesforce, Data Engineering, and Full Stack.",
+      image: "/logo.jpg",
   },
 };
 

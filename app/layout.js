@@ -18,38 +18,46 @@ const openSans = Open_Sans({
 });
 export const metadata = {
   title:
-    "Big Careers Technology solutions | Fuelling Business Growth with Next Generation Innovation.",
+    "Big Careers solutions | Fuelling Business Growth with Next Generation Innovation.",
   description:
-    "Big Careers Technology solutions offers innovative AI, Cloud, Data Engineering, DevOps, and Custom Software Development solutions to transform businesses and optimize operations.",
-  keywords: [
-    "AI Solutions",
+    "Big Careers  Solutions delivers end-to-end IT services, corporate training, and manpower staffing solutions for enterprises, MSMEs, startups, and job seekers. Specializing in AI, ML, Automation, Cloud, Salesforce, Data Engineering, and full-stack staffing solutions.",
+    keywords: [
+    "IT Training",
+    "Corporate Training",
+    "Job-Oriented Training",
+    "Staffing Services",
+    "IT Staffing",
+    "Contract Staffing",
+    "Professional Hiring",
+    "IT Services",
+    "AI and Machine Learning",
     "Cloud Solutions",
-    "Custom Software Development",
-    "AI Development",
-    "Business Intelligence",
-    "Data Engineering",
-    "DevOps Solutions",
+    "DevOps Consulting",
+    "Salesforce Services",
     "IoT Solutions",
-    "Workforce Management",
+    "Data Engineering Services",
     "Automation",
+    "Custom Software Development",
+    "Workforce Solutions",
+    "Staff Augmentation",
   ],
   robots: "index, follow",
   openGraph: {
     title:
-      "Big Careers Technology solutions | Custom Software and AI Solutions",
-    description:
-      "Big Careers Technology solutions provides cutting-edge AI, cloud, and custom software development solutions to businesses looking to enhance performance and drive digital transformation.",
-    url: "https://bigcareers.solutions/",
+      "Big Careers solutions |Big Careers  Solutions delivers end-to-end IT services, corporate training, and manpower staffing solutions for enterprises, MSMEs, startups, and job seekers. Specializing in AI, ML, Automation, Cloud, Salesforce, Data Engineering, and full-stack staffing solutions.",
+      description:
+     "Big Careers  Solutions delivers end-to-end IT services, corporate training, and manpower staffing solutions for enterprises, MSMEs, startups, and job seekers. Specializing in AI, ML, Automation, Cloud, Salesforce, Data Engineering, and full-stack staffing solutions.",
+      url: "https://bigcareers.solutions/",
     type: "website",
     image: "/logo.png",
   },
   twitter: {
     card: "summary_large_image",
     title:
-      "Big Careers Technology solutions | Custom Software and AI Solutions",
+      "Big Careers solutions | IT Services, Training & Manpower Staffing",
     description:
-      "Big Careers Technology solutions offers AI, cloud, and custom software solutions to drive business transformation and enhance operational efficiency.",
-    image: "/logo.png",
+     "Big Careers  Solutions delivers end-to-end IT services, corporate training, and manpower staffing solutions for enterprises, MSMEs, startups, and job seekers. Specializing in AI, ML, Automation, Cloud, Salesforce, Data Engineering, and full-stack staffing solutions.",
+      image: "/logo.png",
   },
 };
 export default function RootLayout({ children }) {

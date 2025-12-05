@@ -14,7 +14,7 @@ import Image from "next/image";
 import ContactFooter from "/app/ui/contactpg";
 
 export const metadata = {
-  title: "AI & ML Training | Big Careers Technology solutions",
+  title: "AI & ML Training | Big Careers  solutions",
   description:
     "Dive into our comprehensive AI & ML Training program. Learn data preprocessing, feature engineering, supervised/unsupervised learning, deep learning basics, and build models using Python and popular ML libraries.",
   keywords: [
@@ -29,7 +29,7 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "AI & ML Training | Big Careers Technology solutions",
+    title: "AI & ML Training | Big Careers  solutions",
     description:
       "Master Artificial Intelligence and Machine Learning fundamentals with hands-on training using Python and real-world data.",
     url: "https://bigcareers.solutions/training/ai-ml",
@@ -38,7 +38,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "AI & ML Training | Big Careers Technology solutions",
+    title: "AI & ML Training | Big Careers  solutions",
     description:
       "Accelerate your career with our AI & ML training, covering data processing, model building, deep learning, and practical applications.",
     image: "/logo.jpg",

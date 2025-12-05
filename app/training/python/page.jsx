@@ -14,7 +14,7 @@ import Image from "next/image";
 import ContactFooter from "/app/ui/contactpg";
 
 export const metadata = {
-  title: "Python Full Stack Training | Big Careers Technology Solutions",
+  title: "Python Full Stack Training | Big Careers  Solutions",
   description:
     "Master Python Full Stack Development with hands-on training in Python Basics, OOP, Django/Flask, REST APIs, Database Management, and Frontend Technologies.",
   keywords: [
@@ -29,7 +29,7 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "Python Full Stack Training | Big Careers Technology Solutions",
+    title: "Python Full Stack Training | Big Careers  Solutions",
     description:
       "Become a job-ready Python Full Stack Developer with real-world projects covering Python, Django, REST APIs, MySQL, and React.",
     url: "https://bigcareers.solutions/training/python",
@@ -38,7 +38,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Python Full Stack Training | Big Careers Technology Solutions",
+    title: "Python Full Stack Training | Big Careers  Solutions",
     description:
       "Learn Python programming, backend development, databases, and frontend technologies in our Python Full Stack Training Program.",
     image: "/logo.jpg",

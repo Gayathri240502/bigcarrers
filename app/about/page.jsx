@@ -8,12 +8,12 @@ import Spacing from "../ui/Spacing";
 import ContactFooter from "../ui/contactpg";
 
 export const metadata = {
-  title: "About Us | Big Careers Technology solutions",
+  title: "About Us | Big Careers  Solutions",
   description:
-    "Learn more about Big Careers Technology solutions, a leading provider of AI & ML, Cyber Security, IoT, Blockchain Management, SAP, DevOps, Cloud, Salesforce, Consulting, Data Engineering & Analytics, Workforce Management, and Custom Embedded Solutions.",
-  keywords: [
-    "About Big Careers Technology solutions",
-    "Big Careers Technology solutions Company",
+   "We combine technology, training, and talent to deliver complete growth solutions.We help businesses build scalable technology systems, train future-ready professionals, and hire top talent. From AI to Cloud, DevOps, and staffing—Big Careers delivers complete technology and workforce solutions.",
+    keywords: [
+    "About Big Careers  Solutions",
+    "Big Careers  Solutions Company",
     "AI & ML Experts",
     "Cyber Security Solutions",
     "IoT Innovations",
@@ -28,18 +28,19 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "About Us | Big Careers Technology solutions",
+    title: "About Us | Big Careers  solutions",
     description:
-      "Big Careers Technology solutions is a technology-driven company specializing in AI, Cyber Security, IoT, Blockchain, SAP, Cloud, and more. Learn about our mission and expertise.",
-    url: "https://bigcareers.solutions/about",
+     "We help businesses build scalable technology systems, train future-ready professionals, and hire top talent. From AI to Cloud, DevOps, and staffing—Big Careers delivers complete technology and workforce solutions.",
+   
+      url: "https://bigcareers.solutions/about",
     type: "website",
     image: "/logo.jpg",
   },
   twitter: {
     card: "summary_large_image",
-    title: "About Us | Big Careers Technology solutions",
+    title: "About Us | Big Careers  solutions",
     description:
-      "Discover Big Careers Technology solutions's mission, vision, and expertise in AI, Cyber Security, Cloud, and other technology services.",
+      "We help businesses build scalable technology systems, train future-ready professionals, and hire top talent. From AI to Cloud, DevOps, and staffing—Big Careers delivers complete technology and workforce solutions.",
     image: "/logo.jpg",
   },
 };

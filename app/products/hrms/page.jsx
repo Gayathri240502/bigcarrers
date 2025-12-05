@@ -8,9 +8,9 @@ import Image from "next/image";
 import ContactFooter from "/app/ui/contactpg";
 
 export const metadata = {
-  title: "HRMS Solutions | Big Careers Technology solutions",
+  title: "HRMS Solutions | Big Careers solutions",
   description:
-    "Explore Big Careers Technology solutions's Human Resource Management System (HRMS) solutions, powered by AI, Cloud, Data Analytics, and Automation to streamline HR processes, enhance employee management, and optimize organizational efficiency.",
+    "Explore Big Careers  solutions's Human Resource Management System (HRMS) solutions, powered by AI, Cloud, Data Analytics, and Automation to streamline HR processes, enhance employee management, and optimize organizational efficiency.",
   keywords: [
     "HRMS Solutions",
     "Human Resource Management",
@@ -25,18 +25,18 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "HRMS Solutions | Big Careers Technology solutions",
+    title: "HRMS Solutions | Big Careers solutions",
     description:
-      "Big Careers Technology solutions offers advanced HRMS solutions leveraging AI, Cloud, and Data Analytics to enhance HR processes, employee management, and workforce optimization.",
+      "Big Careers  solutions offers advanced HRMS solutions leveraging AI, Cloud, and Data Analytics to enhance HR processes, employee management, and workforce optimization.",
     url: "https://bigcareers.solutions/hrms-solutions",
     type: "website",
     image: "/logo.jpg",
   },
   twitter: {
     card: "summary_large_image",
-    title: "HRMS Solutions | Big Careers Technology solutions",
+    title: "HRMS Solutions | Big Careers  solutions",
     description:
-      "Big Careers Technology solutions provides innovative HRMS solutions using AI, Cloud, and Data Analytics to streamline HR processes and optimize workforce management.",
+      "Big Careers  solutions provides innovative HRMS solutions using AI, Cloud, and Data Analytics to streamline HR processes and optimize workforce management.",
     image: "/logo.jpg",
   },
 };

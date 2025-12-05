@@ -9,11 +9,11 @@ import {
 import ContactFooter from "/app/ui/contactpg";
 
 export const metadata = {
-  title: "Products | Big Careers Technology solutions",
+  title: "Products | Big Careers  solutions",
   description:
-    "Discover Big Careers Technology solutions's innovative products powered by AI, Cloud, Data Analytics, and IoT technologies. Our products are designed to optimize business processes, enhance customer experience, and drive digital transformation.",
+    "Discover Big Careers  solutions's innovative products powered by AI, Cloud, Data Analytics, and IoT technologies. Our products are designed to optimize business processes, enhance customer experience, and drive digital transformation.",
   keywords: [
-    "Big Careers Technology solutions Products",
+    "Big Careers  solutions Products",
     "AI Products",
     "Cloud Products",
     "Data Analytics Products",
@@ -26,18 +26,18 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "Products | Big Careers Technology solutions",
+    title: "Products | Big Careers  solutions",
     description:
-      "Explore Big Careers Technology solutions's cutting-edge products designed to accelerate business growth, enhance operations, and improve customer experiences through AI, Cloud, and Data Analytics.",
+      "Explore Big Careers  solutions's cutting-edge products designed to accelerate business growth, enhance operations, and improve customer experiences through AI, Cloud, and Data Analytics.",
     url: "https://bigcareers.solutions/products",
     type: "website",
     image: "/logo.jpg",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Products | Big Careers Technology solutions",
+    title: "Products | Big Careers  solutions",
     description:
-      "Big Careers Technology solutions offers innovative products powered by AI, Cloud, IoT, and Data Analytics to drive business transformation and efficiency.",
+      "Big Careers  solutions offers innovative products powered by AI, Cloud, IoT, and Data Analytics to drive business transformation and efficiency.",
     image: "/logo.jpg",
   },
 };

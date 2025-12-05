@@ -14,7 +14,7 @@ import Image from "next/image";
 import ContactFooter from "/app/ui/contactpg";
 
 export const metadata = {
-  title: "DevOps Training | Big Careers Technology Solutions",
+  title: "DevOps Training | Big Careers  Solutions",
   description:
     "Master CI/CD, containerization, cloud deployment, automation, and monitoring with our hands-on DevOps Training Program.",
   keywords: [
@@ -29,7 +29,7 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "DevOps Training | Big Careers Technology Solutions",
+    title: "DevOps Training | Big Careers Solutions",
     description:
       "Become an industry-ready DevOps Engineer with hands-on labs in CI/CD, cloud, automation, and infrastructure management.",
     url: "https://bigcareers.solutions/training/devops",
@@ -38,7 +38,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "DevOps Training | Big Careers Technology Solutions",
+    title: "DevOps Training | Big Careers  Solutions",
     description:
       "Hands-on DevOps training covering pipelines, automation, cloud services, monitoring, and infrastructure as code.",
     image: "/logo.jpg",

@@ -6,9 +6,9 @@ import Image from "next/image";
 import ContactFooter from "/app/ui/contactpg";
 
 export const metadata = {
-  title: "High-End Engineering Services | Big Careers Technology solutions",
+  title: "High-End Engineering Services | Big Careers  solutions",
   description:
-    "Explore Big Careers Technology solutions's High-End Engineering Services, offering cutting-edge solutions in AI & ML, Cyber Security, IoT, Blockchain, Data Engineering, Cloud, and more to drive innovation in engineering projects.",
+    "Explore Big Careers  solutions's High-End Engineering Services, offering cutting-edge solutions in AI & ML, Cyber Security, IoT, Blockchain, Data Engineering, Cloud, and more to drive innovation in engineering projects.",
   keywords: [
     "High-End Engineering",
     "Engineering Solutions",
@@ -23,18 +23,18 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "High-End Engineering Services | Big Careers Technology solutions",
+    title: "High-End Engineering Services | Big Careers  solutions",
     description:
-      "Big Careers Technology solutions provides advanced engineering solutions across AI, Cyber Security, IoT, Blockchain, and Data Engineering for high-end industrial and technological applications.",
+      "Big Careers  solutions provides advanced engineering solutions across AI, Cyber Security, IoT, Blockchain, and Data Engineering for high-end industrial and technological applications.",
     url: "https://bigcareers.solutions/high-end-engineering-services",
     type: "website",
     image: "/logo.jpg",
   },
   twitter: {
     card: "summary_large_image",
-    title: "High-End Engineering Services | Big Careers Technology solutions",
+    title: "High-End Engineering Services | Big Careers  solutions",
     description:
-      "Big Careers Technology solutions offers advanced engineering solutions, incorporating AI, Cyber Security, IoT, Blockchain, and more for high-end projects.",
+      "Big Careers  solutions offers advanced engineering solutions, incorporating AI, Cyber Security, IoT, Blockchain, and more for high-end projects.",
     image: "/logo.jpg",
   },
 };

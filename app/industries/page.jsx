@@ -16,10 +16,10 @@ import Link from "next/link";
 import ContactFooter from "/app/ui/contactpg";
 
 export const metadata = {
-  title: "Industries | Big Careers Technology solutions",
+  title: "Industries | Big Careers solutions",
   description:
-    "Big Careers Technology solutions offers innovative solutions across various industries including AI & ML, Cyber Security, IoT, Blockchain Management, SAP, DevOps, Cloud, Salesforce, Consulting, Data Engineering & Analytics, Workforce Management, and Custom Embedded Solutions.",
-  keywords: [
+    "Explore the industries supported by Big Careers Technology Solutions. We deliver end-to-end IT services, corporate training, and manpower staffing for Banking & Financial Services, Healthcare, Hi-End Engineering, Media & Technology, and more.",
+    keywords: [
     "AI & ML Industry Solutions",
     "Cyber Security for Industries",
     "IoT Industry Applications",
@@ -36,19 +36,19 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "Industries | Big Careers Technology solutions",
+    title: "Industries | Big Careers  solutions",
     description:
-      "Discover Big Careers Technology solutions's cutting-edge solutions tailored for various industries, from AI & ML to Cyber Security, IoT, Blockchain, Data Analytics, and more.",
-    url: "https://bigcareers.solutions/industries",
+     "Explore the industries supported by Big Careers  Solutions. We deliver end-to-end IT services, corporate training, and manpower staffing for Banking & Financial Services, Healthcare, Hi-End Engineering, Media & Technology, and more.",
+      url: "https://bigcareers.solutions/industries",
     type: "website",
     image: "/logo.jpg",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Industries | Big Careers Technology solutions",
+    title: "Industries | Big Careers  solutions",
     description:
-      "Explore Big Careers Technology solutions's solutions for industries like AI, Cyber Security, IoT, Blockchain, Cloud, Data Engineering, and more.",
-    image: "/logo.jpg",
+      "Explore the industries supported by Big Careers  Solutions. We deliver end-to-end IT services, corporate training, and manpower staffing for Banking & Financial Services, Healthcare, Hi-End Engineering, Media & Technology, and more.",
+      image: "/logo.jpg",
   },
 };
 

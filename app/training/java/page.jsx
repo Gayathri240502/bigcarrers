@@ -14,7 +14,7 @@ import Image from "next/image";
 import ContactFooter from "/app/ui/contactpg";
 
 export const metadata = {
-  title: "Java Full Stack Training | Big Careers Technology Solutions",
+  title: "Java Full Stack Training | Big Careers  Solutions",
   description:
     "Master Java Full Stack Development with hands-on training in Core Java, Advanced Java, Spring Boot, REST APIs, Database Management, and Frontend Technologies.",
   keywords: [
@@ -29,7 +29,7 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "Java Full Stack Training | Big Careers Technology Solutions",
+    title: "Java Full Stack Training | Big Careers Solutions",
     description:
       "Become a job-ready Java Full Stack Developer with real-world projects covering Java, Spring Boot, REST APIs, MySQL, and React.",
     url: "https://bigcareers.solutions/training/java",
@@ -38,7 +38,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Java Full Stack Training | Big Careers Technology Solutions",
+    title: "Java Full Stack Training | Big Careers  Solutions",
     description:
       "Learn Java programming, backend development, databases, and frontend technologies in our Java Full Stack Training Program.",
     image: "/products/java-coding.jpg",

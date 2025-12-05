@@ -16,9 +16,9 @@ import {
 import ContactFooter from "/app/ui/contactpg";
 
 export const metadata = {
-  title: "LMS Solutions | Big Careers Technology solutions",
+  title: "LMS Solutions | Big Careers  solutions",
   description:
-    "Explore Big Careers Technology solutions's Learning Management System (LMS) solutions, powered by AI, Cloud, Data Analytics, and Automation to enhance training, employee development, and learning experiences across organizations.",
+    "Explore Big Careers  solutions's Learning Management System (LMS) solutions, powered by AI, Cloud, Data Analytics, and Automation to enhance training, employee development, and learning experiences across organizations.",
   keywords: [
     "LMS Solutions",
     "Learning Management System",
@@ -33,18 +33,18 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "LMS Solutions | Big Careers Technology solutions",
+    title: "LMS Solutions | Big Careers  solutions",
     description:
-      "Big Careers Technology solutions offers advanced LMS solutions powered by AI, Cloud, and Data Analytics to improve training and learning processes within organizations.",
+      "Big Careers  solutions offers advanced LMS solutions powered by AI, Cloud, and Data Analytics to improve training and learning processes within organizations.",
     url: "https://bigcareers.solutions/lms-solutions",
     type: "website",
     image: "/logo.jpg",
   },
   twitter: {
     card: "summary_large_image",
-    title: "LMS Solutions | Big Careers Technology solutions",
+    title: "LMS Solutions | Big Careers  solutions",
     description:
-      "Big Careers Technology solutions provides innovative LMS solutions using AI, Cloud, and Data Analytics to enhance employee learning and development.",
+      "Big Careers  solutions provides innovative LMS solutions using AI, Cloud, and Data Analytics to enhance employee learning and development.",
     image: "/logo.jpg",
   },
 };

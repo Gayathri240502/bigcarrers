@@ -4,9 +4,9 @@ import PageHeading from "../../ui/PageHeading";
 import SectionHeading from "../../ui/SectionHeading";
 import Spacing from "../../ui/Spacing";
 export const metadata = {
-  title: "Banking and Financial Services | Big Careers Technology solutions",
+  title: "Banking and Financial Services | Big Careers  solutions",
   description:
-    "Explore Big Careers Technology solutions's innovative solutions for Banking and Financial Services, leveraging AI & ML, Cyber Security, Blockchain, Cloud, Data Analytics, and more to enhance financial operations and security.",
+    "Explore Big Careers  solutions's innovative solutions for Banking and Financial Services, leveraging AI & ML, Cyber Security, Blockchain, Cloud, Data Analytics, and more to enhance financial operations and security.",
   keywords: [
     "Banking and Financial Services",
     "Financial Technology",
@@ -22,18 +22,18 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "Banking and Financial Services | Big Careers Technology solutions",
+    title: "Banking and Financial Services | Big Careers solutions",
     description:
-      "Big Careers Technology solutions provides AI, Cyber Security, Blockchain, and Data Analytics solutions for Banking and Financial Services to enhance security and efficiency.",
+      "Big Careers solutions provides AI, Cyber Security, Blockchain, and Data Analytics solutions for Banking and Financial Services to enhance security and efficiency.",
     url: "https://bigcareers.solutions/banking-and-financial-services",
     type: "website",
     image: "/logo.jpg",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Banking and Financial Services | Big Careers Technology solutions",
+    title: "Banking and Financial Services | Big Careers solutions",
     description:
-      "Big Careers Technology solutions offers cutting-edge AI, Blockchain, and Cyber Security solutions for Banking and Financial Services.",
+      "Big Careers solutions offers cutting-edge AI, Blockchain, and Cyber Security solutions for Banking and Financial Services.",
     image: "/logo.jpg",
   },
 };

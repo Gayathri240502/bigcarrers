@@ -16,9 +16,9 @@ import Image from "next/image";
 import ContactFooter from "/app/ui/contactpg";
 
 export const metadata = {
-  title: "HIMS Solutions | Big Careers Technology solutions",
+  title: "HIMS Solutions | Big Careers  solutions",
   description:
-    "Explore Big Careers Technology solutions's Health Information Management System (HIMS) solutions, leveraging AI, Cloud, Cyber Security, Data Analytics, and IoT technologies to enhance healthcare data management, patient care, and operational efficiency.",
+    "Explore Big Careers  solutions's Health Information Management System (HIMS) solutions, leveraging AI, Cloud, Cyber Security, Data Analytics, and IoT technologies to enhance healthcare data management, patient care, and operational efficiency.",
   keywords: [
     "HIMS Solutions",
     "Health Information Management",
@@ -34,18 +34,18 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "HIMS Solutions | Big Careers Technology solutions",
+    title: "HIMS Solutions | Big Careers  solutions",
     description:
-      "Big Careers Technology solutions offers advanced HIMS solutions using AI, Cloud, Cyber Security, and Data Analytics to enhance healthcare data management and improve patient care.",
+      "Big Careers  solutions offers advanced HIMS solutions using AI, Cloud, Cyber Security, and Data Analytics to enhance healthcare data management and improve patient care.",
     url: "https://bigcareers.solutions/hims-solutions",
     type: "website",
     image: "/logo.jpg",
   },
   twitter: {
     card: "summary_large_image",
-    title: "HIMS Solutions | Big Careers Technology solutions",
+    title: "HIMS Solutions | Big Careers  solutions",
     description:
-      "Big Careers Technology solutions provides innovative HIMS solutions that leverage AI, Cloud, Cyber Security, and Data Analytics to enhance healthcare services and data management.",
+      "Big Careers  solutions provides innovative HIMS solutions that leverage AI, Cloud, Cyber Security, and Data Analytics to enhance healthcare services and data management.",
     image: "/logo.jpg",
   },
 };

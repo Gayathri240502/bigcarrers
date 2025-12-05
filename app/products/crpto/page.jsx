@@ -16,9 +16,9 @@ import Image from "next/image";
 import ContactFooter from "/app/ui/contactpg";
 
 export const metadata = {
-  title: "Cryptocurrency Solutions | Big Careers Technology solutions",
+  title: "Cryptocurrency Solutions | Big Careers  solutions",
   description:
-    "Explore Big Careers Technology solutions's Cryptocurrency solutions, powered by Blockchain, AI & ML, Cyber Security, and Cloud technologies to enhance trading, security, and blockchain integration in the digital currency space.",
+    "Explore s solutions's Cryptocurrency solutions, powered by Blockchain, AI & ML, Cyber Security, and Cloud technologies to enhance trading, security, and blockchain integration in the digital currency space.",
   keywords: [
     "Cryptocurrency Solutions",
     "Blockchain in Cryptocurrency",
@@ -34,18 +34,18 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "Cryptocurrency Solutions | Big Careers Technology solutions",
+    title: "Cryptocurrency Solutions | Big Careers solutions",
     description:
-      "Big Careers Technology solutions offers cutting-edge solutions for the Cryptocurrency industry, leveraging Blockchain, AI, and Cyber Security to enhance trading platforms and digital currency services.",
+      "Big Careers solutions offers cutting-edge solutions for the Cryptocurrency industry, leveraging Blockchain, AI, and Cyber Security to enhance trading platforms and digital currency services.",
     url: "https://bigcareers.solutions/cryptocurrency-solutions",
     type: "website",
     image: "/logo.jpg",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Cryptocurrency Solutions | Big Careers Technology solutions",
+    title: "Cryptocurrency Solutions | Big Careers solutions",
     description:
-      "Big Careers Technology solutions provides innovative Cryptocurrency solutions using Blockchain, AI, and Cyber Security to drive secure and efficient digital currency services.",
+      "Big Careers solutions provides innovative Cryptocurrency solutions using Blockchain, AI, and Cyber Security to drive secure and efficient digital currency services.",
     image: "/logo.jpg",
   },
 };

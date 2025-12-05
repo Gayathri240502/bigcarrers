@@ -6,9 +6,9 @@ import Image from "next/image";
 import ContactFooter from "/app/ui/contactpg";
 
 export const metadata = {
-  title: "Healthcare Services | Big Careers Technology solutions",
+  title: "Healthcare Services | Big Careers  solutions",
   description:
-    "Discover Big Careers Technology solutions's innovative Healthcare solutions, leveraging AI & ML, Cyber Security, IoT, Blockchain, Data Analytics, and Cloud technologies to enhance patient care, security, and operational efficiency.",
+    "Discover Big Careers  solutions's innovative Healthcare solutions, leveraging AI & ML, Cyber Security, IoT, Blockchain, Data Analytics, and Cloud technologies to enhance patient care, security, and operational efficiency.",
   keywords: [
     "Healthcare Solutions",
     "AI in Healthcare",
@@ -23,18 +23,18 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "Healthcare Services | Big Careers Technology solutions",
+    title: "Healthcare Services | Big Careers  solutions",
     description:
-      "Big Careers Technology solutions provides advanced solutions in AI, Cyber Security, Blockchain, IoT, and Data Analytics for the Healthcare sector.",
+      "Big Careers  solutions provides advanced solutions in AI, Cyber Security, Blockchain, IoT, and Data Analytics for the Healthcare sector.",
     url: "https://bigcareers.solutions/healthcare-services",
     type: "website",
     image: "/logo.jpg",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Healthcare Services | Big Careers Technology solutions",
+    title: "Healthcare Services | Big Careers  solutions",
     description:
-      "Big Careers Technology solutions offers AI, Cyber Security, IoT, Blockchain, and Data Analytics solutions for the Healthcare industry.",
+      "Big Careers  solutions offers AI, Cyber Security, IoT, Blockchain, and Data Analytics solutions for the Healthcare industry.",
     image: "/logo.jpg",
   },
 };

@@ -14,7 +14,7 @@ import Image from "next/image";
 import ContactFooter from "/app/ui/contactpg";
 
 export const metadata = {
-  title: "Cyber Security Training | Big Careers Technology Solutions",
+  title: "Cyber Security Training | Big Careers  Solutions",
   description:
     "Learn Cyber Security from fundamentals to advanced topics including ethical hacking, network security, malware analysis, cloud security, and security operations.",
   keywords: [
@@ -29,7 +29,7 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "Cyber Security Training | Big Careers Technology Solutions",
+    title: "Cyber Security Training | Big Careers  Solutions",
     description:
       "Master Cyber Security with hands-on training, practical labs, ethical hacking, incident response, and security tools.",
     url: "https://bigcareers.solutions/training/cyber-security",
@@ -38,7 +38,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Cyber Security Training | Big Careers Technology Solutions",
+    title: "Cyber Security Training | Big Careers  Solutions",
     description:
       "Become a cyber security professional with our practical and job-ready training program.",
     image: "/logo.jpg",
