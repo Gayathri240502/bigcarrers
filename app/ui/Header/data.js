@@ -2,6 +2,30 @@ import { Children } from "react";
 
 export const navLinks = [
   { href: "/", label: "Home" },
+
+  { href: "/manpower", label: "What We Do",
+    children: [
+      {
+        href: "/humanresources",
+        label: "Human Resources Activity",
+      },
+      {
+        href: "/corporatetrading",
+        label: "Corporate Trading",
+      },
+      {
+        href: "/support",
+        label: "Support",
+
+      },
+      {
+        href: "/manpowersupply",
+        label: "Manpower Supply",
+      },
+
+    ],
+
+  },
   {
     href: "/service",
     label: "Services",

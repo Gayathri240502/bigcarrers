@@ -135,7 +135,7 @@ export default function CorporateTradingPage() {
         <Div className="row">
           <Div className="col-xl-5 col-lg-6">
             <Div className="cs-image_layer cs-style1">
-              <Div className="cs-image_layer_in">
+              {/* <Div className="cs-image_layer_in">
                 <Image
                   src="/services/corporate/trading3.jpg"
                   alt="Why Choose Our Support Services"
@@ -143,13 +143,13 @@ export default function CorporateTradingPage() {
                   width={500}
                   height={500}
                 />
-              </Div>
+              </Div> */}
             </Div>
             <Spacing lg="0" md="40" />
           </Div>
 
           <Div className="col-xl-5 offset-xl-1 col-lg-6">
-            <SectionHeading
+            {/* <SectionHeading
               title="Why Choose Us"
               subtitle="Professional Support Services You Can Trust"
             >
@@ -172,7 +172,7 @@ export default function CorporateTradingPage() {
               <Spacing lg="30" md="30" />
               <Div className="cs-separator cs-accent_bg"></Div>
               <Spacing lg="25" md="0" />
-            </SectionHeading>
+            </SectionHeading> */}
           </Div>
         </Div>
       </Div>

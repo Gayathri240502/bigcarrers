@@ -134,7 +134,7 @@ export default function CorporateTradingPage() {
         <Div className="row">
           <Div className="col-xl-5 col-lg-6">
             <Div className="cs-image_layer cs-style1">
-              <Div className="cs-image_layer_in">
+              {/* <Div className="cs-image_layer_in">
                 <Image
                   src="/services/corporate/trading3.jpg"
                   alt="Why Choose Us"
@@ -142,32 +142,32 @@ export default function CorporateTradingPage() {
                   width={500}
                   height={500}
                 />
-              </Div>
+              </Div> */}
             </Div>
             <Spacing lg="0" md="40" />
           </Div>
           <Div className="col-xl-5 offset-xl-1 col-lg-6">
-            <SectionHeading
+            {/* <SectionHeading
               title="Why Choose Us"
               subtitle="Reliable Corporate Trading Support You Can Trust"
-            >
+            > */}
               <Spacing lg="30" md="20" />
-              <p className="cs-m0">
+              {/* <p className="cs-m0">
                 Big Careers Solutions ensures seamless and reliable trading
                 support for businesses across different industries. Our team
                 manages procurement, vendor relations, and supply operations
                 with professionalism and attention to detail.
               </p>
-              <Spacing lg="15" md="15" />
-              <p className="cs-m0">
+              <Spacing lg="15" md="15" /> */}
+              {/* <p className="cs-m0">
                 We deliver accurate, timely, and transparent trading services
                 that help organizations focus on their core operations while we
                 handle the rest.
               </p>
-              <Spacing lg="30" md="30" />
-              <Div className="cs-separator cs-accent_bg"></Div>
+              <Spacing lg="30" md="30" /> */}
+              {/* <Div className="cs-separator cs-accent_bg"></Div>
               <Spacing lg="25" md="0" />
-            </SectionHeading>
+            </SectionHeading> */}
           </Div>
         </Div>
       </Div>
