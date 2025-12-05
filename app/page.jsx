@@ -77,8 +77,9 @@ export default function Home() {
                 padding: "20px 0",
               }}
             >
-              – Transforming manpower through continuous learning and innovative tech capabilities.
-            </p>
+-We blend manpower expertise, continuous skill training, and smart technology platforms<br /> 
+ to connect skilled talent with roles that match their strengths and support organizational growth.
+         </p>
             <div style={{ display: "flex", justifyContent: "start" }}>
               <Button
                 style={{ maxWidth: "600px", width: "100%" }}
