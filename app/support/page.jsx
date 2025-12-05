@@ -30,7 +30,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Business Support Services | Big Careers Solutions",
+    title: " Support Services | Big Careers Solutions",
     description:
       "Reliable business support, IT support, customer service, and helpdesk assistance for smooth operations.",
     image: "/logo.jpg",
@@ -43,7 +43,7 @@ export default function CorporateTradingPage() {
       {/* Start Page Heading Section */}
       <PageHeading
         title="Professional Business Support Services"
-        bgSrc="/services/corporate/trading-bg.jpg"
+        bgSrc="/images/jjkkk.jpeg"
         pageLinkText="Support Services"
       />
       {/* End Page Heading Section */}
@@ -75,7 +75,7 @@ export default function CorporateTradingPage() {
           {/* Right Column with Image */}
           <Div className="col-lg-6 col-md-12 text-center">
             <Image
-              src="/services/corporate/trading1.jpg"
+              src="/images/wq.jpeg"
               className="img-fluid cs-radius_15 shadow-lg"
               alt="Support Services"
               width={700}
