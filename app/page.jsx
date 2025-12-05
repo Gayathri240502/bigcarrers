@@ -115,12 +115,12 @@ export default function Home() {
 
       {/* Moving Text Section */}
       <Spacing lg="125" md="70" />
-      <MovingText text="Our reputed Clients" />
+      {/* <MovingText text="Our reputed Clients" /> */}
       <Spacing lg="105" md="70" />
 
       {/* Logo List Section */}
       <Div className="container">
-        <LogoList />
+        {/* <LogoList /> */}
       </Div>
       {/* <Spacing lg="80" md="60" />
       <SuccessStory /> */}
