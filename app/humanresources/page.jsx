@@ -43,7 +43,7 @@ export default function CorporateTradingPage() {
       {/* Start Page Heading Section */}
       <PageHeading
         title="Human Resources Management Services"
-        bgSrc="/services/corporate/trading-bg.jpg"
+        bgSrc="/images/hu.jpeg"
         pageLinkText="Human Resources"
       />
       {/* End Page Heading Section */}
@@ -76,7 +76,7 @@ export default function CorporateTradingPage() {
           {/* Right Column with Image */}
           <Div className="col-lg-6 col-md-12 text-center">
             <Image
-              src="/services/corporate/trading1.jpg"
+              src="/images/gbj.jpeg"
               className="img-fluid cs-radius_15 shadow-lg"
               alt="Human Resources Solutions"
               width={700}
@@ -97,7 +97,7 @@ export default function CorporateTradingPage() {
             <Div className="cs-image_layer cs-style1">
               <Div className="cs-image_layer_in">
                 <Image
-                  src="/services/corporate/trading2.jpg"
+                  src="/images/hr1.png"
                   alt="HR Services"
                   className="w-100 cs-radius_15"
                   width={500}
@@ -138,7 +138,7 @@ export default function CorporateTradingPage() {
             <Div className="cs-image_layer cs-style1">
               <Div className="cs-image_layer_in">
                 {/* <Image
-                  src="/services/corporate/trading3.jpg"
+                  src="/images/hr2.jpeg"
                   alt="Why Choose Our HR Services"
                   className="w-100 cs-radius_15"
                   width={500}

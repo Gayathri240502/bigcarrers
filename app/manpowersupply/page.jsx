@@ -43,7 +43,7 @@ export default function CorporateTradingPage() {
       {/* Start Page Heading Section */}
       <PageHeading
         title="Manpower Supply Services"
-        bgSrc="/services/corporate/trading-bg.jpg"
+        bgSrc="/images/manpower.jpeg"
         pageLinkText="Manpower Supply"
       />
       {/* End Page Heading Section */}
@@ -75,7 +75,7 @@ export default function CorporateTradingPage() {
           {/* Right Column */}
           <Div className="col-lg-6 col-md-12 text-center">
             <Image
-              src="/services/corporate/trading1.jpg"
+              src="/images/hgg.jpeg"
               className="img-fluid cs-radius_15 shadow-lg"
               alt="Manpower Supply Services"
               width={700}
@@ -96,7 +96,7 @@ export default function CorporateTradingPage() {
             <Div className="cs-image_layer cs-style1">
               <Div className="cs-image_layer_in">
                 <Image
-                  src="/services/corporate/trading2.jpg"
+                  src="/images/man3.png"
                   alt="Key Manpower Services"
                   className="w-100 cs-radius_15"
                   width={500}
