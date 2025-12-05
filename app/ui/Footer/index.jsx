@@ -43,7 +43,7 @@ const services = [
     ],
   },
   {
-label: "Training",
+    label: "Training",
     link: "/training",
     items: [
       {
@@ -67,7 +67,6 @@ label: "Training",
         label: "Python Training",
       },
     ],
-
   },
   // {
   //   label: "Our Products",
@@ -303,7 +302,7 @@ export default function Footer({ copyrightText, logoSrc, logoAlt, text }) {
                         Terms and Conditions
                       </Link>
                     </li>
-                     <li className="mt-2">
+                    <li className="mt-2">
                       <Link href="/shipping-and-exchange">
                         Shipping and Exchange
                       </Link>
