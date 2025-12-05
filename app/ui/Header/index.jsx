@@ -55,11 +55,11 @@ export default function Header({ variant }) {
               <div style={{ display: "flex", alignItems: "center" }}>
                 <Link href="/">
                   <Image
-                    src="/logo-bg.png"
+                    src="/logo-bg1.png"
                     alt="Logo"
                     width={100}
-                    height={200}
-                    style={{ marginRight: "10px" }} // Adds space between image and text
+                    height={100}
+                    style={{ marginRight: "10px", height: "80px", width: "80px" ,padding: "10px"}} // Adds space between image and text
                   />
                 </Link>
                 {/* <Link href="/">

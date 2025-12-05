@@ -6,11 +6,11 @@ import Spacing from "../../ui/Spacing";
 import PageHeading from "../../ui/PageHeading";
 import ContactFooter from "../../ui/contactpg";
 export const metadata = {
-  title: "Advisory Board | Big Careers Technology solutions",
+  title: "Advisory Board | Big Careers solutions",
   description:
-    "Meet the Advisory Board of Big Careers Technology solutions, a leading provider of AI & ML, Cyber Security, IoT, Blockchain Management, SAP, DevOps, Cloud, Salesforce, Consulting, Data Engineering & Analytics, Workforce Management, and Custom Embedded Solutions.",
+    "Meet the Advisory Board of Big Careers  solutions, a leading provider of AI & ML, Cyber Security, IoT, Blockchain Management, SAP, DevOps, Cloud, Salesforce, Consulting, Data Engineering & Analytics, Workforce Management, and Custom Embedded Solutions.",
   keywords: [
-    "Big Careers Technology solutions Advisory Board",
+    "Big Careers  Solutions Advisory Board",
     "AI & ML",
     "Cyber Security",
     "IoT",
@@ -27,18 +27,18 @@ export const metadata = {
   ],
   robots: "index, follow",
   openGraph: {
-    title: "Advisory Board | Big Careers Technology solutions",
+    title: "Advisory Board | Big Careers  solutions",
     description:
-      "Discover the expertise of Big Careers Technology solutions's Advisory Board, guiding innovation in AI, Cyber Security, IoT, Blockchain, SAP, Cloud, and more.",
+      "Discover the expertise of Big Careers solutions's Advisory Board, guiding innovation in AI, Cyber Security, IoT, Blockchain, SAP, Cloud, and more.",
     url: "https://bigcareers.solutions/advisory-board",
     type: "website",
     image: "/logo.jpg", // Replace with actual image URL
   },
   twitter: {
     card: "summary_large_image",
-    title: "Advisory Board | Big Careers Technology solutions",
+    title: "Advisory Board | Big Careers  solutions",
     description:
-      "Big Careers Technology solutions's Advisory Board brings together experts in AI, Cyber Security, IoT, Blockchain, SAP, and more to drive innovation.",
+      "Big Careers solutions's Advisory Board brings together experts in AI, Cyber Security, IoT, Blockchain, SAP, and more to drive innovation.",
     image: "/logo.jpg", // Replace with actual image URL
   },
 };

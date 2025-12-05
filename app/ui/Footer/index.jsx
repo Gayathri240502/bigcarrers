@@ -43,7 +43,7 @@ const services = [
     ],
   },
   {
-label: "Training",
+    label: "Training",
     link: "/training",
     items: [
       {
@@ -67,7 +67,6 @@ label: "Training",
         label: "Python Training",
       },
     ],
-
   },
   // {
   //   label: "Our Products",
@@ -197,25 +196,25 @@ label: "Training",
       { href: "/service/technology/ai-&-ml/advance-ml", label: "Advance ML" },
     ],
   },
-  {
-    label: "IoT Solutions",
-    link: "/service/technology/iot",
-    items: [
-      {
-        href: "/service/technology/iot/device-integration",
-        label: "Device Integration",
-      },
-      {
-        href: "/service/technology/iot/sensor-networks",
-        label: "Sensor Networks",
-      },
-      {
-        href: "/service/technology/iot/data-monitoring",
-        label: "Data Monitoring",
-      },
-      { href: "/service/technology/iot/iot-security", label: "IoT Security" },
-    ],
-  },
+  // {
+  //   label: "IoT Solutions",
+  //   link: "/service/technology/iot",
+  //   items: [
+  //     {
+  //       href: "/service/technology/iot/device-integration",
+  //       label: "Device Integration",
+  //     },
+  //     {
+  //       href: "/service/technology/iot/sensor-networks",
+  //       label: "Sensor Networks",
+  //     },
+  //     {
+  //       href: "/service/technology/iot/data-monitoring",
+  //       label: "Data Monitoring",
+  //     },
+  //     { href: "/service/technology/iot/iot-security", label: "IoT Security" },
+  //   ],
+  // },
 
   {
     label: "Data Engineering Analytics",
@@ -303,7 +302,7 @@ export default function Footer({ copyrightText, logoSrc, logoAlt, text }) {
                         Terms and Conditions
                       </Link>
                     </li>
-                     <li className="mt-2">
+                    <li className="mt-2">
                       <Link href="/shipping-and-exchange">
                         Shipping and Exchange
                       </Link>
